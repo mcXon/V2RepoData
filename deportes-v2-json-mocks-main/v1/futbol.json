@@ -1,0 +1,1451 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Laura Casillas, Diego Gonzalez | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-cc26-dcaf-abfb-df370efd0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/715808e/2147483647/strip/true/crop/750x422+0+2/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F73%2Fd9%2Fb7a256dc41618e15a68cc7c5d449%2Fcaptura-de-pantalla-2025-11-28-142705.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/maranhao-figura-cruz-azul-caso-mexico-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 enero 2026",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Llegó como figura a Cruz Azul; se casó en México y se fue humillado por la afición"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-2",
+                    "highlighted": false,
+                    "id": "0000019a-cc2c-d3a7-a3da-cfad50030000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/66669c4/2147483647/strip/true/crop/743x418+0+1/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1c%2Fc3%2F2439f2f24df49a23d308a1e5f744%2Fcaptura-de-pantalla-2025-11-28-143625.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/chamagol-gonzalez-goleador-liga-bbva-mx-decepciono-tigres-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 enero 2026",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fue líder y goleador de un club histórico, pero llegó a Tigres y decepcionó con sus actuaciones"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-3",
+                    "highlighted": false,
+                    "id": "0000019a-ad95-db0e-a5df-efd705ca0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7856e42/2147483647/strip/true/crop/747x420+0+1/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe9%2Fa2%2F950f61b94f49a0fa29a83f9a5186%2Fliga-bbva-mx-aspiraciones-america-clausura-2026.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-bbva-mx-aspiraciones-america-clausura-2026-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "31 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Liga BBVA MX: ¿A qué aspira el América en el torneo Clausura 2026?"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-4",
+                    "highlighted": false,
+                    "id": "0000019a-ad11-d679-abdb-afbdbf870000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6f85235/2147483647/strip/true/crop/752x423+0+1/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa9%2Fe4%2F9585fff3496e8fa0b980a4d58183%2Fmejor-futbolista-mexicano-extranjero-apertura-2025-liga-bbva-mx.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/mejor-futbolista-mexicano-extranjero-apertura-2025-liga-bbva-mx-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Liga BBVA MX: ¿Quién fue el mejor futbolista mexicano y extranjero del 2025?"
+                },
+                {
+                    "author": "Publicado por: Iván Vilchis",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-2f50-da90-a7db-3f7127550000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4f8397f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F16%2F81%2F2c4440dc4c8ab83d08b16e2fa52f%2Fleagues-cup-2.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/pumas-confirma-su-primer-refuerzo-clausura-2026-cesar-garza?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "ÚLTIMA HORA: Pumas confirma a su primer refuerzo para el Clausura 2026 proveniente de Europa"
+                },
+                {
+                    "author": "Publicado por: GABRIEL MARTÍNEZ RUBIO",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-2e88-dc81-a9ff-ffadf9860000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ea044fe/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9b%2F18%2Fe699331847228280a8bdd9e3d3b8%2Furiel-antuna-cruz-azul.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/uriel-antuna-rompe-silencio-final-apertura-2025-rumores-tigres-pumas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Regresa a Cruz Azul? La confesión de Uriel Antuna que sacudió el cierre del Apertura"
+                },
+                {
+                    "author": "Publicado por: Diego Gonzalez | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-2e7c-d089-ad9b-af7dfd4d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ff3ff94/2147483647/strip/true/crop/1280x720+0+4/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc5%2F97%2F9a41c9fb459aaf02d143b2e82a4c%2Fcruz-azul-nicolas-larcamon.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cruz-azul-recibira-maximas-estrellas-y-nicolas-larcamon-felicidad?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Cruz Azul recibirá a una de sus máximas estrellas y Nicolás Larcamón ya brinca de felicidad"
+                },
+                {
+                    "author": "Publicado por: Diego Gonzalez | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-2e45-d0a2-abdb-6f5fd4fc0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fc495cf/2147483647/strip/true/crop/1280x720+0+4/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2a%2F6a%2Fdf4f67c541a9a3be777d043d834e%2Fgabriel-milito-chivas-jugadores-1.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/gabriel-milito-27-millones-clave-para-chivas-clausura-2026?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Gabriel Milito lo ama, cuesta 27 millones en el mercado y sería clave para Chivas en el Clausura 2026"
+                },
+                {
+                    "author": "Publicado por: Rodrigo Acuña",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-9",
+                    "highlighted": false,
+                    "id": "0000019b-2e27-da90-a7db-3e37ac550000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/35984db/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F30%2F73%2F3c1f4179431dac1872177fcad702%2Fsaint-maximin-america-pretemporada.webp",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/allan-saint-maximin-america-clausura-2026-pretemporada?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Allan Saint-Maximin mostró algo que conmocionó a todos los aficionados del Club América rumbo al Clausura 2026"
+                },
+                {
+                    "author": "Publicado por: Herminio Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-pos-10",
+                    "highlighted": false,
+                    "id": "0000019b-2e2d-d089-ad9b-af6dbb610000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3f5c026/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe6%2Fd3%2F52eb7826417096a482fe79776551%2Fcade-cowell.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ultima-hora-cade-cowell-goleador-chivas-liguilla-presentado-new-york?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Liga MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "ÚLTIMA HORA: Goleador de Chivas en la Liguilla es presentado en el extranjero"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Liga MX",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-cc33-dcbb-a39b-cef7dd0a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/a3b146c/2147483647/strip/true/crop/750x422+0+1/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3a%2Fa8%2Feff8450b4f63944e2fa57dde68bc%2Fcaptura-de-pantalla-2025-11-28-144439.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/erling-haaland-dieta-6000-calorias-futbol-elite-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 enero 2026",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Qué come Erling Haaland para brillar en la Premier? Conoce su dieta de más de 6,000 calorías"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-2",
+                    "highlighted": false,
+                    "id": "0000019a-ad9b-d72d-afba-addf00a40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fc11c7c/2147483647/strip/true/crop/747x420+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5c%2F12%2Fcc9b8c484f569b694a734656c3d0%2Ftigres-clausura-2026-objetivos-expectativas-deseos-fichajes.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/tigres-clausura-2026-objetivos-expectativas-deseos-fichajes-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "31 diciembre 2025",
+                    "section": "MLS",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Tigres en el Clausura 2026: Objetivos, expectativas, deseos y posibles fichajes"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-3",
+                    "highlighted": false,
+                    "id": "0000019a-ad30-dece-a7bb-edf945080000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/38a16da/2147483647/strip/true/crop/745x419+0+1/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff7%2F66%2F9252bdfe452387daf868cf99bd21%2Flamine-yamal-comparacion-lionel-messi-cristiano-ronaldo.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lamine-yamal-comparacion-lionel-messi-cristiano-ronaldo-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "25 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Lamine Yamal; virtudes y deficiencias que podrían sentarlo en la mesa de Messi y CR7"
+                },
+                {
+                    "author": "Publicado por: Iván Vilchis",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-2e8d-d1af-a39b-2ffd22740000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/017bc8e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1a%2F30%2Fadb1e11b478e8be68db5caafe9d0%2Fmatan-jugador-barcelona-sc.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/muere-mario-pineida-futbolista-barcelona-sc-ataque-amardo?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "ÚLTIMA HORA: Muere futbolista del Barcelona tras un ataque armado"
+                },
+                {
+                    "author": "Publicado por: Salvador Marroquín",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-2e7a-dfca-a9df-afff85000000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7d7291c/2147483647/strip/true/crop/1280x720+0+10/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2Ff8%2Fcf40cd754ddc9a526a45f10af4d6%2Fjavi-2.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/carlo-ancelotti-gianluigi-donnarumma-votaron-javier-aguirre?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Las dos figuras mundiales que votaron por Javier Aguirre para el The Best"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-2d99-d82a-a19f-7ddbbfbd0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/b22ccc2/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F57%2F95%2Fd14ff2a44c4c96d7150e3fb1b087%2Fjohn-terry-leyenda-futbol-penso-quitarse-vida-tras-fallar-penal-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/john-terry-leyenda-futbol-penso-quitarse-vida-tras-fallar-penal-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Leyenda del futbol pensó en quitarse la vida tras fallar un penal decisivo; así pensó en el final de sus días"
+                },
+                {
+                    "author": "Publicado por: Iván Vilchis",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-2dc3-d1af-a39b-2fff0aaa0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/026c2bd/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdd%2Fdc%2F528aef9343a9a01154b8b5d550cc%2Fmbappe-real-madrid.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ver-en-vivo-y-gratis-talavera-vs-real-madrid-resultado-hoy-copa-del-rey?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Avanzan a Octavos de Final! Real Madrid derrota a Talavera con doble de Mbappé"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-2da3-d429-a19f-afffaa6f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/24d219c/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2Fd4%2F6829215d4fba906d77c027853220%2Fethan-mcleod-ex-jugador-wolverhampton-fallecio-accidente-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ethan-mcleod-ex-jugador-wolverhampton-fallecio-accidente-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ex jugador del Wolverhampton falleció en un accidente; esto se sabe del percance"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-9",
+                    "highlighted": false,
+                    "id": "0000019b-2d57-d82a-a19f-7dd7e76d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/428722a/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6b%2Fd9%2F63b4fac04f98993c79ded7b2203d%2Fpsg.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/psg-vs-flamengo-ver-vivo-gratis-resultado-hoy-miercoles-17-diciembre-final-copa-intercontinental-2025-marcador-online?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Internacional",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "De la tensión al festejo: PSG define desde los once pasos la final de la Copa Intercontinental"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-fut-azteca-pos-10",
+                    "highlighted": false,
+                    "id": "0000019b-2894-dabd-a3bb-fbd4f3a60000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9425a15/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F18%2F7a%2F8f3f5fb442ce8e4e0cc8f4c59e32%2Ftrofeo-leagues-cup.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/leagues-cup-2026-fechas-formato-clubes-confirmados?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Leagues Cup ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Leagues Cup 2026 ya tiene fecha y formato definido"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Fut azteca",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-1",
+                    "highlighted": false,
+                    "id": "0000017a-7e57-dd86-a37b-7f774be30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/1f35393/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F22%2F79%2F5da8c6fe4cfdb095e0816c25c236%2Fmessi.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/video-gol-lionel-messi-argentina-bolivia-empato-record-historico-pele-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 septiembre 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Revive el gol con el que Messi empató récord histórico de Pelé"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-2",
+                    "highlighted": false,
+                    "id": "0000017a-bc2b-d3ef-a37b-fc6bad610000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2ba0b7d/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa7%2F76%2Fd24320f644909b2dba0dd4534aa5%2Fdibu-y-messi.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/que-le-dijo-dibu-martinez-a-messi-en-los-penales-ante-colombia-lmn?_app=true",
+                    "private": "0",
+                    "publicationDate": "18 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Qué le dijo Dibu Martínez a Messi en los penales ante Colombia?"
+                },
+                {
+                    "author": "Publicado por: Álvaro López Sordo",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-3",
+                    "highlighted": false,
+                    "id": "0000017a-a157-d130-abfb-afdfae7a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ea4c020/2147483647/strip/true/crop/1200x675+0+50/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F54%2F5c%2Fae6b328e40ef940f4414f8c7e0ac%2Fkun.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/sergio-aguero-hablo-de-la-felicidad-de-messi?_app=true",
+                    "private": "0",
+                    "publicationDate": "13 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Sergio Agüero habló de la felicidad de Messi"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-4",
+                    "highlighted": false,
+                    "id": "0000017a-9cda-d0e1-ab7e-ddff459a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0531000/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F76%2F0c%2F9d14b8a44c4688d13d612643e501%2Fney.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/neymar-responde-pu-festejo-jugadores-argentinos?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Neymar responde con \"pu...\" al festejo de jugadores argentinos"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-5",
+                    "highlighted": false,
+                    "id": "0000017a-9c2e-db25-a5fb-9d2e79d30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/c433c95/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F79%2F75%2Ffcb4b1f54924b644ae1e6a3ebd63%2Farg.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/gonzalo-montiel-el-humilde-defensa-campeon-de-la-copa-america?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Gonzalo Montiel, el humilde defensa campeón de la Copa América"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-6",
+                    "highlighted": false,
+                    "id": "0000017a-9bdc-daa0-ad7e-dbde6d5a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/d26eff8/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fec%2Fb7%2Fde35748747b2b114414eb8c50b47%2Fjugadores-de-argentina-celebran-con-messi.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/messi-detiene-burlas-brasil?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Messi detiene burlas contra Brasil por parte de su equipo"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-7",
+                    "highlighted": false,
+                    "id": "0000017a-9bda-db25-a5fb-9bfab2980000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3fb6feb/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffb%2F66%2Fd364a0b648d1bc35368176fb7a80%2F19-argentina-vs-colombia-semifinales-copa-america-2021-penales.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/multan-a-conmebol-en-brasil-tras-final-copa-america-2021lmn?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Multan a Conmebol en Brasil tras final de Copa América 2021"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-8",
+                    "highlighted": false,
+                    "id": "0000017a-9b86-db25-a5fb-9ba673090000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ecc08b4/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2b%2Fb3%2F43477cbd4abd88e5714982fb72bf%2Fneymar-messi-abrazo.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/neymar-emotivo-mensaje-para-lionel-messi-amistad-de-campeones-gmu?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Neymar y su emotivo mensaje para Lionel Messi, amistad de campeones"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-9",
+                    "highlighted": false,
+                    "id": "0000017a-9358-daa0-ad7e-d3dec9fc0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3dcd2cd/2147483647/strip/true/crop/1440x810+0+45/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7c%2F30%2F469275f946c8aae7624c97cbd672%2Fargentina-campeon-de-la-copa-america-2021.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/notas/argentina-puso-fin-a-una-sequia-de-28-anos-sin-un-titulo-oficial-lps?_app=true",
+                    "private": "0",
+                    "publicationDate": "10 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Argentina puso fin a una sequía de 28 años sin un título oficial"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-copa-america-pos-10",
+                    "highlighted": false,
+                    "id": "0000017a-9335-db25-a5fb-9b376ed30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/691b018/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa0%2Fcc%2F578915234ae491b49c432b9b9d63%2Fargentina-celebra-el-gol-de-di-maria.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-america-2021/notas/argentina-vence-a-brasil-en-maracana-y-es-campeon-de-la-copa-america-lps?_app=true",
+                    "private": "0",
+                    "publicationDate": "10 julio 2021",
+                    "section": "Copa América 2021",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Argentina vence a Brasil en Maracaná y es Campeón de la Copa América"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Copa América",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Erick De la Rosa",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-f67b-dc7e-a5bf-f7fbc4820000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/734daf9/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcd%2F87%2Ff03f839c41afa8f3dd5196adc4e9%2Fleagues-cup-2.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ultima-hora-define-nuevo-campeon-futbol-mexicano?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 diciembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "ÚLTIMA HORA: Se define nuevo campeón del futbol mexicano"
+                },
+                {
+                    "author": "Publicado por: José Alejandro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-2",
+                    "highlighted": false,
+                    "id": "0000019a-c54d-d65b-adfb-ffcde0820000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4d3085f/2147483647/strip/true/crop/1280x720+0+10/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fea%2Fe1%2Fbef310804a7186382ed56507d6b3%2Fchima-1.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/el-entrenador-fracaso-liga-bbva-mx-y-ahora-tiene-nuevo-club-final?_app=true",
+                    "private": "0",
+                    "publicationDate": "27 noviembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "El entrenador que fracasó en la Liga BBVA MX y ahora tiene a su nuevo club en una final"
+                },
+                {
+                    "author": "Publicado por: Marco Espósito | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-3",
+                    "highlighted": false,
+                    "id": "0000019a-b736-d8c2-affa-ff378fb60000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/918605e/2147483647/strip/true/crop/1280x720+0+4/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8e%2Fa9%2F3dc8fb064fd5acd6e1e0351b6d6d%2Fyjtre.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jugaba-en-la-liga-expansion-y-hoy-esta-detenido-por-portar-un-arma-en-un-partido?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 noviembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Jugaba en la Liga Expansión y hoy está detenido por portar un arma en un partido"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-4",
+                    "highlighted": false,
+                    "id": "0000019a-b3f2-de7e-a19b-b7f640d00000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5f66ed3/2147483647/strip/true/crop/4500x2531+0+234/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4a%2F05%2Fbf6b0def4afe8d2cd82ee6727f2e%2F20230520-9056.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jugara-final-apertura-2025-liga-bbva-expansion-mx?_app=true",
+                    "private": "0",
+                    "publicationDate": "23 noviembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "OFICIAL: Así se jugará la FINAL del Apertura 2025 de la Liga BBVA de Expansión MX"
+                },
+                {
+                    "author": "Publicado por: José Alejandro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-5",
+                    "highlighted": false,
+                    "id": "0000019a-8260-dc87-a7bb-e36990a90000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/69aed63/2147483647/strip/true/crop/1280x720+0+10/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8a%2F94%2F806fecbc4b9e9ca9e9d8a9fea03b%2Fcalero-1.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/es-hijo-una-leyenda-puede-jugar-seleccion-nacional-y-hoy-campeon-goleo?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 noviembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Es hijo de una leyenda, puede jugar para la Selección Nacional y hoy es campeón de goleo fuera de la Liga BBVA MX"
+                },
+                {
+                    "author": "Publicado por: Herminio Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-6",
+                    "highlighted": false,
+                    "id": "0000019a-0de5-d5c0-a5bb-5def875c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4953906/2147483647/strip/true/crop/1407x791+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F97%2Ffc%2Fe361ccc549f6b7263711c5892892%2Fcaptura-de-pantalla-2022-04-20-121913.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/tampico-madero-ha-perdido-una-sola-vez-en-25-partidos-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "22 octubre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡DE LOCOS! El equipo del futbol mexicano que solo tiene UNA derrota en sus últimos 25 partidos"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-7",
+                    "highlighted": false,
+                    "id": "00000199-9213-dc10-afff-9afbfa120000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/c8045ff/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F35%2F81%2F9749c63242e88a0bc938507758d0%2Ffracaso-en-europa-y-ahora-es-goleador-en-la-expansion-bbva-mx.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/juan-jose-calero-quien-es-goleador-campana-liga-de-expansion-mx-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "28 septiembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fracasó en Europa, hoy es goleador en la Liga Expansión BBVA MX"
+                },
+                {
+                    "author": "Publicado por: Mauricio Gutiérrez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-8",
+                    "highlighted": false,
+                    "id": "00000199-175d-dafa-abd9-f7dd344b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0ee418e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F55%2F1f%2F08292aa14a7e8f5ff10fb8824af6%2Fliga-expansion.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/irapuato-el-equipo-mas-asistentes-en-la-liga-expansion-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 septiembre 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Irapuato, el equipo más destacado en la Liga de Expansión"
+                },
+                {
+                    "author": "Publicado por: José Alejandro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-9",
+                    "highlighted": false,
+                    "id": "00000198-8077-d426-a1bf-8bff333e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9752b74/2147483647/strip/true/crop/1280x720+0+4/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4b%2Fe7%2F8f42c656403d8a14ecce2260ad6d%2Fmarco-1.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fue-creador-grandes-figuras-chivas-consideran-crack-hoy-esta-expansion?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 agosto 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fue el creador de grandes figuras en Chivas, lo consideran un crack y hoy está en la Liga Expansión"
+                },
+                {
+                    "author": "Publicado por: José Alejandro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-expansion-mx-pos-10",
+                    "highlighted": false,
+                    "id": "00000198-423f-dd31-a99d-ea7f41e80000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/cac9222/2147483647/strip/true/crop/1280x720+0+12/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffa%2F66%2F82818e204bc4ace3ae6d12a88f32%2Fventura-3.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/un-dia-fue-campeon-america-hoy-precio-esta-para-llorar-jugara-segunda?_app=true",
+                    "private": "0",
+                    "publicationDate": "25 julio 2025",
+                    "section": "Liga de Expansión MX",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Un día fue campeón con el América y hoy su precio está para llorar: jugará en segunda división"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Liga expansión MX",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-1",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa3a120000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ff79923/2147483647/strip/true/crop/1827x1028+0+28/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc1%2F29%2F63d55ffd3aefc12f746e72859740%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/chivas-femenil-a-seguir-por-el-mismo-camino?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 enero 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Chivas Femenil, a seguir por el mismo camino"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-2",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa3a670000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/752976d/2147483647/strip/true/crop/1915x1077+0+23/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fec%2F54%2Ff6c079b6c4ab00dc9c05a30ed098%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/cruz-azul-vence-a-pumas-en-liga-mx-femenil?_app=true",
+                    "private": "0",
+                    "publicationDate": "07 enero 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Cruz Azul vence a Pumas en Liga MX Femenil"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-3",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa3b0e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7f020b1/2147483647/strip/true/crop/1824x1026+0+27/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd4%2F9d%2F905281c82728ab60189be27e2b90%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/chivas-femenil-consigue-primer-triunfo?_app=true",
+                    "private": "0",
+                    "publicationDate": "13 enero 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Chivas Femenil consigue primer triunfo"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-4",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa3e1d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e63ac56/2147483647/strip/true/crop/962x541+13+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F62%2F54%2F4a714f1ba4aae45d9d53103d9c52%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/cruz-azul-rescata-empate?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 febrero 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Cruz Azul rescata empate"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-5",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa40750000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/54db67a/2147483647/strip/true/crop/975x548+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcb%2Fc4%2F5d840e5cda85d8dda311c33b4618%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/toluca-recupera-la-cima?_app=true",
+                    "private": "0",
+                    "publicationDate": "19 marzo 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Toluca recupera la cima!"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-6",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa40cd0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2e99192/2147483647/strip/true/crop/978x550+0+34/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F79%2F48%2Fbc99451875374452542f54c923af%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/pumas-se-aferra-a-liguilla?_app=true",
+                    "private": "0",
+                    "publicationDate": "26 marzo 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Pumas se aferra a Liguilla!"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-7",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa412b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/92c70ca/2147483647/strip/true/crop/1381x777+0+27/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcf%2F3c%2F5d1ac5ff76c727387d349fa6179d%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/pumas-cae-y-necesita-milagro-para-liguilla?_app=true",
+                    "private": "0",
+                    "publicationDate": "31 marzo 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Pumas cae y necesita milagro para Liguilla"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-8",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa42270000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/448f0f7/2147483647/strip/true/crop/1262x710+105+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F59%2Fc0%2Ff41192753da6761040a23fedc3d5%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/chivas-cedera-su-corona?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 abril 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Chivas cederá su corona"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-9",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa42b70000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/b88dcda/2147483647/strip/true/crop/1600x900+0+83/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fea%2Fa1%2F5a9c2bfdf2970994b0da21ff4477%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/tigres-toma-buena-ventaja?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 abril 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Tigres toma buena ventaja"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "futbol-slider-liga-mx-femenil-pos-10",
+                    "highlighted": false,
+                    "id": "0000016b-d782-d4db-a97f-f7aa43520000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e53110f/2147483647/strip/true/crop/4000x2250+0+209/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F78%2F1a%2Fc8cc686af007778acbd98b21e4ce%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/liga-mx/notas/definen-fechas-y-horarios-para-la-final-femenil?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 abril 2018",
+                    "section": "Liga MX Femenil",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Fut Azteca (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Definen fechas y horarios para la final femenil"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Liga MX femenil",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Futbol"
+}

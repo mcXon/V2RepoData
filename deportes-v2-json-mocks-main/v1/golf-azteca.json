@@ -1,0 +1,294 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: TANIA VENTIMILLA CONTRERAS",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-1",
+                    "highlighted": false,
+                    "id": "0000018b-dfd9-d20f-a59f-ffdf71070000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/b721c95/2147483647/strip/true/crop/515x290+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffd%2Fc6%2F0548aaa14e149dde2a8f540fde6d%2Fcaptura-de-pantalla-2019-11-19-a-las-17.52.15.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/hugo-gonzalez-ve-posible-competencia-memo-ochoa?_app=true",
+                    "private": "0",
+                    "publicationDate": "20 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Hugo González habla de la competencia a Memo Ochoa en Selección Mexicana"
+                },
+                {
+                    "author": "Publicado por: TANIA VENTIMILLA CONTRERAS",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-2",
+                    "highlighted": false,
+                    "id": "0000018b-b6f9-d57e-a9ff-f7f9a32e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0190e70/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F10%2F1c9a65e74001aba6438fab2e0f00%2Fquinones.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/julian-quinones-ve-positivo-llamado-julian-quinones?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Delantero mexicano ve positivo el llamado de Quiñones a Selección Mexicana"
+                },
+                {
+                    "author": "Publicado por: TANIA VENTIMILLA CONTRERAS",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-3",
+                    "highlighted": false,
+                    "id": "0000018b-b6ed-d330-a38b-feffd6640000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/775d409/2147483647/strip/true/crop/1024x576+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2a%2Fef%2Ff22f8cdf4f4ea08dc345542e5d8f%2Fgettyimages-1165583397.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jesus-godinez-brilla-costa-rica-afirma-no-hay-rencor?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Exdelantero de Chivas que brilla en el extranjero no guarda rencor"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-4",
+                    "highlighted": false,
+                    "id": "00000183-6842-dd6c-adbb-fdefb63b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/276c10d/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2a%2Fc2%2F2b184bac4ee38bcf06f56268eacd%2Fjairo-torres-festejando-con-atlas.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/campeon-con-atlas-sale-en-defensa-de-la-mls?_app=true",
+                    "private": "0",
+                    "publicationDate": "22 septiembre 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Campeón con Atlas sale en defensa de la MLS       "
+                },
+                {
+                    "author": "Publicado por: Herminio Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-5",
+                    "highlighted": false,
+                    "id": "00000182-faa4-d50f-a197-fff7a88f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5588d08/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fad%2Fbd%2F2985146d48848071775c6cf8a068%2Fpavel-pardo-previo-a-un-partido-en-la-mls.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/pavel-pardo-partido-clave-mexico-qatar-2022?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 septiembre 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Pável Pardo adelanta el partido clave para México en Qatar 2022"
+                },
+                {
+                    "author": "Publicado por: Ashley González",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-6",
+                    "highlighted": false,
+                    "id": "00000182-69cd-d804-ab9a-e9dd243b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5c89b49/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0c%2F73%2F40abd37c40789b51efd1809c55d4%2Fkevin-alvarez-sonriendo-en-un-partido-con-la-seleccion-mexicana.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/kevin-alvarez-lo-estan-buscando-europa?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 agosto 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Kevin Álvarez revela que lo están buscando en Europa"
+                },
+                {
+                    "author": "Publicado por: Omar Villarreal",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-7",
+                    "highlighted": false,
+                    "id": "00000182-46d2-d176-a3a3-77dee88a0001",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0c764c0/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fef%2F52%2F773bc5484a76a0bff0c38a8ca5d3%2Fjozy-altidore-en-la-ciudad-de-mexico-para-reportar-con-puebla.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jozy-altidore-liga-mx-mas-fuerte-mls?_app=true",
+                    "private": "0",
+                    "publicationDate": "28 julio 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Jozy Altidore: \"Liga BBVA MX todavía es un poco más fuerte que MLS\""
+                },
+                {
+                    "author": "Publicado por: Omar Villarreal ",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-8",
+                    "highlighted": false,
+                    "id": "00000182-4143-d1e1-abaa-795bc4970000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0316117/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Ff0%2Ff38692ed4a38aed071a1b3198635%2Ffernando-beltran-saliendo-de-un-partido-de-la-seleccion-mexicana.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fernando-beltran-va-por-qatar-2022-titulo-chivas?_app=true",
+                    "private": "0",
+                    "publicationDate": "27 julio 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fernando Beltrán va por Qatar 2022 y el título con Chivas"
+                },
+                {
+                    "author": "Publicado por: Omar Villarreal ",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-9",
+                    "highlighted": false,
+                    "id": "00000182-146e-d730-a59a-5d7f404f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/a7a1f64/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe1%2Fd4%2F6a6b44c04629a81631e9d40af026%2Falexis-vega-en-el-partido-entre-santos-y-chivas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jugador-importante-alexis-vega-entrevista-santiago-ormeno-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "18 julio 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "\"Un jugador importante\": Alexis Vega sobre Santiago Ormeño"
+                },
+                {
+                    "author": "Publicado por: Ashley González",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-golf-azteca-slider-submenu-golf-azteca-pos-10",
+                    "highlighted": false,
+                    "id": "00000181-9274-df2b-afe3-b277c3db0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0e4663f/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc6%2Fe0%2F19f94c764282b3eefc27f6afe0af%2Fpablo-barrera-en-un-partido-con-queretaro.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/pablo-barrera-pide-chicharito-seleccion-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "23 junio 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Exclusivas Azteca Deportes ",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Pablo Barrera pide a ‘Chicharito’ para la Selección Mexicana "
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu Golf Azteca"
+}

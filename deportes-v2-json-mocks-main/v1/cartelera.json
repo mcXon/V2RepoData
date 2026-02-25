@@ -1,0 +1,727 @@
+{
+    "modules":
+    [
+        {
+            "adUnit": "/29782907/apps-azteca/TVAzteca-QA/cartelera/home",
+            "view": "adBanner"
+        },
+        {
+            "promos":
+            [
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider-proxmos-eventos-pos-1",
+                    "highlighted": false,
+                    "id": "0000016c-4513-d7c1-a57f-6f936be40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/953deac/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7e%2Fa7%2F4c98809f3001b9c01e529ec8e792%2Fthumb-691d22c99463ee0e3d12ba4f-691d22c99463ee0e3d12ba63-9s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/azteca7/azteca-7-especiales/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Conoce todo el contenido exclusivo de deportes, como partidos, espectáculos y peleas que Azteca 7 Especiales trae para ti.",
+                        "imageBackground": "",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/145f3c9/2147483647/strip/true/crop/960x342+0+0/resize/280x100!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcd%2F7a%2Faeb0dff24379ae171de6323598d2%2Faztecasiete-1032x368-2.webp"
+                    },
+                    "private": "0",
+                    "publicationDate": "30 julio 2019",
+                    "section": "Azteca 7 Especiales",
+                    "title": "Azteca 7 Especiales En Vivo"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider-proxmos-eventos-pos-2",
+                    "highlighted": false,
+                    "id": "0000016b-d81f-d4db-a97f-fbbfa6da0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/a10b5b9/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fe3%2F19%2Fe99044e2c0e82e303ba9e7005edf%2Fthumb-693fa36d21d6a6c8cd77d614-1765779796080.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/los-protagonistas/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Programa Los Protagonistas EN VIVO: Fechas, horarios y dónde ver por TV Azteca Deportes",
+                        "imageBackground": "https://uat.tv-azteca.psdops.com/dims4/default/b84f31f/2147483647/strip/true/crop/254x143+873+0/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2F6f%2Fac4ee67d4946a75c21734fa4a037%2Fprota-bg-web-a001.jpg",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/8e22ec1/2147483647/strip/true/crop/1658x508+0+0/resize/280x86!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F00%2F31%2F8c943b0c4b8594e5604a97409741%2Flos-protagonistas-sitio.png"
+                    },
+                    "private": "0",
+                    "publicationDate": "09 julio 2019",
+                    "section": "Los Protagonistas",
+                    "title": "Los Protagonistas En Vivo"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider-proxmos-eventos-pos-3",
+                    "highlighted": false,
+                    "id": "0000016c-4513-d7c1-a57f-6f936be40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fd8fe1b/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F41%2Fab%2F8c4635c554a913f1ae43621e2949%2Fthumb-693f827fce77700e972c02ff-1765832076748.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/azteca7/azteca-7-especiales/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Conoce todo el contenido exclusivo de deportes, como partidos, espectáculos y peleas que Azteca 7 Especiales trae para ti.",
+                        "imageBackground": "",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/145f3c9/2147483647/strip/true/crop/960x342+0+0/resize/280x100!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcd%2F7a%2Faeb0dff24379ae171de6323598d2%2Faztecasiete-1032x368-2.webp"
+                    },
+                    "private": "0",
+                    "publicationDate": "30 julio 2019",
+                    "section": "Azteca 7 Especiales",
+                    "title": "Azteca 7 Especiales En Vivo"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider-proxmos-eventos-pos-4",
+                    "highlighted": false,
+                    "id": "0000016b-d81f-d4db-a97f-fbbf68180000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/814a37f/2147483647/strip/true/crop/196x110+0+6/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F24%2F96%2F4805e4131b642241224586c745fb%2Ftoluca-1332332.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ligamx/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Todas las noticias de la Liga MX hoy en vivo y gratis: tabla de posiciones, resultados y transmisiones online de juegos pot TV Azteca Deportes. Torneo Clausura 2025 del futbol mexicano",
+                        "imageBackground": "https://uat.tv-azteca.psdops.com/dims4/default/9a09e12/2147483647/strip/true/crop/254x143+873+0/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F63%2F7b%2F55c59e00467c8d4684db721323f8%2Ffut-azteca-bg-web-a001.jpg",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/c203578/2147483647/strip/true/crop/1658x508+0+0/resize/280x86!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F54%2Fb1%2F855ee00c4dad947f786b92c5aa07%2Fliga-mx-sitio.png"
+                    },
+                    "private": "0",
+                    "publicationDate": "09 julio 2019",
+                    "section": "Liga MX",
+                    "title": "Liga MX En Vivo"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider-proxmos-eventos-pos-5",
+                    "highlighted": false,
+                    "id": "0000016b-d81f-d4db-a97f-fbbfa6da0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/afe5a8f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F27%2F3a%2Ff568a3fc450392a7243d6ef8d8da%2Fmini-resumen-2025.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/los-protagonistas/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Programa Los Protagonistas EN VIVO: Fechas, horarios y dónde ver por TV Azteca Deportes",
+                        "imageBackground": "https://uat.tv-azteca.psdops.com/dims4/default/b84f31f/2147483647/strip/true/crop/254x143+873+0/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2F6f%2Fac4ee67d4946a75c21734fa4a037%2Fprota-bg-web-a001.jpg",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/8e22ec1/2147483647/strip/true/crop/1658x508+0+0/resize/280x86!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F00%2F31%2F8c943b0c4b8594e5604a97409741%2Flos-protagonistas-sitio.png"
+                    },
+                    "private": "0",
+                    "publicationDate": "09 julio 2019",
+                    "section": "Los Protagonistas",
+                    "title": "Los Protagonistas En Vivo"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Próxmos eventos",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "contentType": "video",
+                    "durationTime": "1:12",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-1",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae21660000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/c8abcd6/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1e%2Fa0%2F58795b094381aaf8ddbbaef7dd37%2Fwhatsapp-image-2020-02-13-at-10.14.37%20PM.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/los-protagonistas/videos/que-le-falta-a-la-liga-mx?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 enero 2018",
+                    "section": "Los Protagonistas",
+                    "title": "¿Qué le falta a la Liga MX para ser reconocida en Europa?"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "2:26",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-2",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae3f760000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fbd3c2f/2147483647/strip/true/crop/982x552+0+29/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F80%2Ff6994ac6401dad6811823669116a%2Fpuebla-fc-en-vivo-login.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ritual-nfl/videos/top-10-jugadas-en-3d?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 enero 2018",
+                    "section": "Ritual NFL",
+                    "title": "TOP 10 Mejores jugadas de la NFL en 3D"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "7:23",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-3",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae3f7d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7647b41/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fca%2F40%2F361c1242f7ebba334f881b088ab2%2Fthumb-60159167630d5776f8e8554e-1612026215883.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ritual-nfl/videos/top-15-semana-17?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 enero 2018",
+                    "section": "Ritual NFL",
+                    "title": "Top 15 Las mejores jugadas de la Semana 17"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "9:19",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-4",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae3f800000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e77dcfc/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fa81%2F0f5525d292394189a8805547edadbb43%2Fa81cf0f0cbec450eb86a54aefef10284%2Fposter_e5a4b67082de479f8fc6851c3c18d9c1.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ritual-nfl/videos/mejores-recepciones-a-una-mano?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 enero 2018",
+                    "section": "Ritual NFL",
+                    "title": "Top 10 | Las mejores recepciones a una mano"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "2:13",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-5",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae216c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/1ae1997/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F797%2F0f5525d292394189a8805547edadbb43%2F797094c712164532aa14cf5dd9fedb0d%2Fposter_dc0c593de1a54e939c610e08daf5b49b.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/los-protagonistas/videos/parejita-en-el-retiro?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 enero 2018",
+                    "section": "Los Protagonistas",
+                    "title": "'Parejita' López, su vida después del futbol"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-6",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae16550000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/762a1d9/2147483647/strip/true/crop/120x68+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F73b%2F0f5525d292394189a8805547edadbb43%2F73be6a633ad9474a82b66574f01f4c1f%2Fposter_1d320180ff1b407f84f42598c1800074.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/azteca-golf/videos/golf-1?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 enero 2018",
+                    "section": "Azteca Golf",
+                    "title": "Golf 1"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-7",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae16580000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/48fff07/2147483647/strip/true/crop/120x68+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F88a%2F0f5525d292394189a8805547edadbb43%2F88ad272de32e4d8b9847c313dddf6e40%2Fposter_eeff7315b96f459aabde7338ff10e56f.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/azteca-golf/videos/golf-2?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 enero 2018",
+                    "section": "Azteca Golf",
+                    "title": "Golf 2"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-8",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae165b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e910a8d/2147483647/strip/true/crop/120x68+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fc7f%2F0f5525d292394189a8805547edadbb43%2Fc7f51c6d839c48449e9a5727184a1446%2Fposter_8893986a09824a4fbd7c7fceb113a71f.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/azteca-golf/videos/golf?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 enero 2018",
+                    "section": "Azteca Golf",
+                    "title": "Golf"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "1:04",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-9",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae1a230000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6d39293/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2F3d%2F8705b2f46d48ae26b4ca2bf1e8f1%2Fthumb-60159164b21acd08690164f1-1612026212392.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-mx/videos/gol-murcielagos?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 enero 2018",
+                    "section": "",
+                    "title": "Gol de Murcielagos 1 0 Copa MX J1"
+                },
+                {
+                    "contentType": "video",
+                    "durationTime": "0:46",
+                    "firebaseEvent": "cartelera-shortsslider-azteca-shorts-pos-10",
+                    "highlighted": false,
+                    "id": "0000016b-d786-d4db-a97f-f7ae1a260000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/843dd45/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcf%2F76%2Fef371b8b8ebac45dae31bf48fa9b%2Fthumb-6015916517ca4744bb35c2df-1612026213393.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/copa-mx/videos/francis-afriyie-penal?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 enero 2018",
+                    "section": "",
+                    "title": "Murcielagos falla un penal"
+                }
+            ],
+            "view": "shortsSlider",
+            "content": "",
+            "headline": "Azteca Shorts",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "44:29",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-db72-d397-a59a-ff7f774a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/327469b/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fad%2Fdf%2F994b9cc739f028f2fa83a1a37428%2Fthumb-692dee88325dd7f57639ef62-692dee88325dd7f57639ef77-267s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/del-estadio-a-la-pista-carlos-guerrero-warrior-y-la-nueva-era-formula-e-podcast?_app=true",
+                    "private": "0",
+                    "publicationDate": "02 diciembre 2025",
+                    "section": "Formula E",
+                    "title": "Del estadio a la pista: Carlos Guerrero 'Warrior' y la nueva era de Fórmula E | Podcast de Fórmula E"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "35:34",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-2",
+                    "highlighted": false,
+                    "id": "0000019a-db6d-d397-a59a-ff6de27e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f42e9dc/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F12%2F99%2F485b5d8f3b19587a1ec2acd52a23%2Fthumb-692dee3adaf723fbdd81ab92-692dee3adaf723fbdd81aba3-213s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/formula-e-dan-ticktum-habla-sin-filtros-la-formula-e?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 diciembre 2025",
+                    "section": "Formula E",
+                    "title": "Formula E | Dan Ticktum habla sin filtros sobre la Formula E y su futuro"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "54:01",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-3",
+                    "highlighted": false,
+                    "id": "0000019a-db72-d397-a59a-ff7f7ad70000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/28ae448/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2d%2Fe4%2Fa0bc5a5ff69aa588667544764026%2Fthumb-692dee60daf723fbdd81ad70-692dee60daf723fbdd81ad84-324s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/formula-e-actualidad-y-nuevos-retos-alberto?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 diciembre 2025",
+                    "section": "Formula E",
+                    "title": "Formula E | Actualidad y nuevos retos con Alberto Longo"
+                },
+                {
+                    "author": "Publicado por: GABRIEL MARTÍNEZ RUBIO",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-4",
+                    "highlighted": false,
+                    "id": "0000019a-5120-d676-afda-517c5c460000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5b45934/2147483647/strip/true/crop/4000x2250+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2Fae%2F8cd674f641cba926067a4af09732%2Fmike-bahia-dara-el-concierto-en-el-e-prix-de-la-cdmx-2026.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/mike-bahia-sera-protagonista-musical-formula-e-mexico?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 noviembre 2025",
+                    "section": "Formula E",
+                    "title": "Mike Bahía encenderá el Autódromo: la Fórmula E prepara una fiesta histórica en México"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "2:34",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-5",
+                    "highlighted": false,
+                    "id": "00000198-0a5c-d336-a3bc-ef5eb34b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0eea2e4/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F73%2Fb3%2F6e426bf34fe98400db91ea291d03%2Fwhatsapp-image-2025-07-14-at-3-13-54-pm.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/formula-e-2025-resumen-eprix-13-berlin?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 julio 2025",
+                    "section": "Formula E",
+                    "title": "Resumen ePrix 13 Berlín | Fórmula E 2025"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "8:37",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-6",
+                    "highlighted": false,
+                    "id": "00000198-0b21-d336-a3bc-ef23884d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5ace12e/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb5%2Faa%2F0ba979784ab8a68cb5b014fb9e75%2Fwhatsapp-image-2025-07-15-at-6-01-57-pm.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/formula-e-domingonick-cassidy-se-lleva-eprix-14-berlin?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 julio 2025",
+                    "section": "Formula E",
+                    "title": "Nick Cassidy se lleva ePrix 14 de Berlín | Oliver Rowland se corona"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "2:11",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-7",
+                    "highlighted": false,
+                    "id": "00000197-a434-d9e4-a3f7-ad3da91b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2f79890/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff3%2F58%2F37a665a6410fbbb1ed2e7ebbe366%2Fresumen-e-prix-jakarta.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/resumen-e-prix-jakarta-ronda-12-formula-e-2025?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 junio 2025",
+                    "section": "Formula E",
+                    "title": "RESUMEN: E-Prix Jakarta, Ronda 12 Fórmula E 2025"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "3:40",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-8",
+                    "highlighted": false,
+                    "id": "00000197-3d15-d48b-adbf-7d776d040000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/950de6c/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6d%2F82%2F989a66b34e0bb85284b5ae7d3825%2Fresumen-e-prix-de-shangai-nick-cassidy.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/e-prix-shangai-formula-e-ronda-11-t11-resumen-completo-triunfo-nick-cassidy?_app=true",
+                    "private": "0",
+                    "publicationDate": "05 junio 2025",
+                    "section": "Formula E",
+                    "title": "E-Prix de Shangái de la Fórmula E, Ronda 11, T11 | RESUMEN COMPLETO"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:21",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-9",
+                    "highlighted": false,
+                    "id": "00000197-38c1-d48b-adbf-79f3a6fa0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f440726/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F81%2F5c%2Fd04013c647c7ad0a92019f5edfb4%2Fronda-10-qualy-shangai.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/clasificacion-ronda-11-formula-e-prix-desde-shanghai?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 junio 2025",
+                    "section": "Formula E",
+                    "title": "Clasificación de la Ronda 10 de la Fórmula en el E-Prix de Shanghái "
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:52",
+                    "firebaseEvent": "cartelera-simpleslider2-lo-mas-destacado-pos-10",
+                    "highlighted": false,
+                    "id": "00000197-38bd-d48b-adbf-79ff0d7c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/974d263/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc3%2Fb2%2F7caf1c9c472c81700aa21eb24649%2Fronda-11-qualy.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/clasificacion-ronda-10-formula-e-prix-desde-shanghai?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 junio 2025",
+                    "section": "Formula E",
+                    "title": "Clasificación de la Ronda 11 de la Fórmula en el E-Prix de Shanghái "
+                }
+            ],
+            "view": "simpleSlider2",
+            "content": "",
+            "headline": "Lo más destacado",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-1",
+                    "highlighted": false,
+                    "id": "0000019b-485a-d03e-a7db-6c7e0a860000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8110729/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4b%2Fdd%2Fa299b7ba40e6bbff5806850f03bb%2F4-juegos-no-estaran-playstation-plus-enero-2026.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/una-final-cargada-tension-en-bangkok-alpha7-esports-levanto-el-trofeo-del?_app=true",
+                    "private": "1",
+                    "publicationDate": "22 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Tras una final cargada de tensión en Bangkok, Alpha7 Esports levantó el trofeo del PMGC 2025 y PUBG MOBILE aprovechó el escenario global para revelar ambiciosos planes competitivos y de contenido rumbo a 2026"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-2ed3-d55a-a7df-afdf823e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3e881a3/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F65%2F6a%2Ff9d143704c5392bd91a26bd623f7%2Funnamed.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/alpha7-esports-campeon-pubg-mobile-global-championship-2025?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Alpha7 Esports hace historia y se consagra campeón del PUBG MOBILE Global Championship 2025"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-29a7-de56-affb-6bfff6fb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2af44f3/2147483647/strip/true/crop/3840x2160+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2F36%2Fadcbc7cf4ef6933b333007627373%2Funnamed.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fecha-lanzamiento-orbitals-en-nintendo-switch-2?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Orbitals anuncia su llegada en 2026 como una nueva aventura cooperativa exclusiva de Nintendo Switch 2"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-29a4-dd67-afdf-3dbebfab0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f5437b9/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8f%2F0f%2Faa4bb39a4853b41fc8d35916b6d8%2Funnamed-3.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lego-batman-el-legado-del-caballero-la-noche-lanzamiento?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "title": "LEGO Batman: El Legado del Caballero de la Noche confirma su lanzamiento para mayo de 2026 y revela nuevo tráiler en The Game Awards"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-2dc9-d55a-a7df-addd0f170000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/115c61e/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2Fa6%2F294884ff44c0a594631801bf87ad%2Fea-sports-fc-26-vencio-pokemon-call-of-duty-ventas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ea-sports-fc-26-vencio-pokemon-call-of-duty-ventas-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "title": "EA Sports FC 26, más vivo que nunca; así venció a Pokémon y Call of Duty en ventas"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-2dcb-dfca-a9df-afdf44f40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8110729/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4b%2Fdd%2Fa299b7ba40e6bbff5806850f03bb%2F4-juegos-no-estaran-playstation-plus-enero-2026.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/4-juegos-no-estaran-playstation-plus-enero-2026-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Estos son los 4 juegos que dejarán de estar en la PlayStation Plus en enero 2026"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-299b-dd95-abfb-bfdffccb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5aed342/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F63%2F7d%2F7006a09342589bbe446b06d48726%2Fclair-obscur-expedition-33-4049565-jpg.webp",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cuantos-premios-gano-clair-obscur-expedition-33?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Clair Obscur: Expedition 33 arrasa en The Game Awards 2025 y establece un récord histórico"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-2994-d1c7-a7df-7db4fa280000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ceaa49d/2147483647/strip/true/crop/680x383+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd5%2F98%2Fa8386aa74a1eb12a9895892fea21%2Funnamed.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/valorant-masters-santiago-2026-mantiene-boletos-disponibles-para-sus-primeras?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "title": "VALORANT Masters Santiago 2026 mantiene boletos disponibles para sus primeras jornadas"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-9",
+                    "highlighted": false,
+                    "id": "0000019b-28ae-dd00-adff-bbbe61900000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/82cfe07/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe1%2F4a%2F1ef96f394609beb93ff1f15e5e1f%2Fnex-playground-consola-amenaza-superar-xbox.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/nex-playground-consola-amenaza-superar-xbox-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Conoce Nex Playground, la nueva consola que amenaza con superar a la Xbox"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "cartelera-simpleslider2-programacion-pos-10",
+                    "highlighted": false,
+                    "id": "0000019b-28b6-d44c-afff-7df735530000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ac41001/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Fde%2F706797314330946085918a6c6181%2Flara-croft-regresa-dos-nuevos-videojuegos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lara-croft-regresa-dos-nuevos-videojuegos-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "title": "Lara Croft regresa con 2 nuevos videojuegos; así será su desarrollo"
+                }
+            ],
+            "view": "simpleSlider2",
+            "content": "",
+            "headline": "Programación",
+            "moreTitle": ""
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "0:44",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-1",
+                    "highlighted": false,
+                    "id": "0000018e-c469-d12e-a9be-ecff21310000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9df8d0f/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F14%2Fbe%2Fe9c1069471b3ccd1a300914fc652%2Fthumb-66159bafc7c13360bd7857e4-66159bafc7c13360bd7857fa-4s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/christian-martinoli-regala-whisky-javier-aguirre-previo-final-copa-rey?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 abril 2024",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "El regalo que le dio Christian Martinoli a Javier Aguirre"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "0:47",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-2",
+                    "highlighted": false,
+                    "id": "0000018e-c469-d12e-a9be-ecff164c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9571d6c/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe8%2Fab%2F327d555902fe8cdd3166c7cf518f%2Fthumb-66159bb9d328cf71cc00da8c-66159bb9d328cf71cc00daa2-5s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/javier-aguirre-retiro-entrenador-profesional-mallorca?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 abril 2024",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Javier 'Vasco' Aguirre podría retirarse pronto | Entrevista con Christian Martinoli"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:09",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-3",
+                    "highlighted": false,
+                    "id": "0000018b-96ea-dba3-a1cb-beff09c40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/1f04589/2147483647/strip/true/crop/1004x565+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5a%2Fe2%2F65f3a0594c8182534c7a832ed0e1%2Fjohan-vasquez-candidatea-a-alan-mozo-para-la-seleccion-mexicana.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/alan-mozo-exclusiva-tv-azteca-posibilidad-ir-seleccion-mexicana?_app=true",
+                    "private": "1",
+                    "publicationDate": "03 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Alan Mozo sobre sus posibilidades de ir a la Selección Mexicana, en exclusiva"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "0:56",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-4",
+                    "highlighted": false,
+                    "id": "0000018b-96ea-dba3-a1cb-beff0c680000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/d5728a4/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe8%2F02%2Fa7f0523547319d9f363648028c27%2Falan-mozo-y-omar-campos-pelean-el-balon.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/chivas-alan-mozo-habla-apodo-don-centros?_app=true",
+                    "private": "1",
+                    "publicationDate": "03 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Alan Mozo, defensa de Chivas, habla sobre el apodo que le puso Christian Martinoli"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:03",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-5",
+                    "highlighted": false,
+                    "id": "0000018b-96ea-dba3-a1cb-beff0f0a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f515188/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7b%2F9d%2Fddc0ca7440178bad35042d96af8b%2Falan-mozo.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/alan-mozo-reincorporacion-alexis-vega-chivas?_app=true",
+                    "private": "1",
+                    "publicationDate": "03 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Alan Mozo se pronuncia en exclusiva sobre la reintegración de Alexis Vega a las Chivas"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "8:24",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-6",
+                    "highlighted": false,
+                    "id": "0000018b-96ee-dba3-a1cb-beffa0660000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4428eb5/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F86%2F38%2Fea6c1f5a415ebd296a9f7230be8f%2Fmozo.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/chivas-alan-mozo-advierte-peligroso-que-es-cruz-azul?_app=true",
+                    "private": "1",
+                    "publicationDate": "03 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Alan Mozo habla sobre la dificultad de enfrentar al Cruz Azul "
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "2:47",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-7",
+                    "highlighted": false,
+                    "id": "0000018b-91f1-dba3-a1cb-bbfd748c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/b305ec6/2147483647/strip/true/crop/4000x2250+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F60%2F04%2F7f915e3b4db194d3092080327820%2F20210430-11918.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/marco-fabian-habla-mexicano-fiestas?_app=true",
+                    "private": "0",
+                    "publicationDate": "02 noviembre 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "EXCLUSIVA: Marco Fabián habla sobre el mexicano y las fiestas"
+                },
+                {
+                    "author": "Publicado por: Roberto Talavera",
+                    "contentType": "video",
+                    "durationTime": "1:36",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-8",
+                    "highlighted": false,
+                    "id": "00000186-4d01-d371-a9de-4de7b6010000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/bb98094/2147483647/strip/true/crop/1273x716+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F05%2F72%2Ff15fdcee4bcf9c7dab3121828d83%2Fexclusiva-de-ignacio-ambriz-tv-azteca-deportes.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/nacho-ambriz-preferia-tecnico-mexicano-seleccion-mexicana?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 febrero 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "'Me hubiera gustado que el DT de la Selección fuera mexicano' Ambriz"
+                },
+                {
+                    "author": "Publicado por: Roberto Talavera",
+                    "contentType": "video",
+                    "durationTime": "9:59",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-9",
+                    "highlighted": false,
+                    "id": "00000185-c5e0-d471-a1ed-fdfbb6430000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2b6b68f/2147483647/strip/true/crop/1237x696+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe5%2F75%2F6eb6fb72486ea7dccb73356edd77%2Fcuauhtemoc-blanco-en-entrevista-con-zague.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cuauhtemoc-blanco-proximo-dt-seleccion-mexicana?_app=true",
+                    "private": "0",
+                    "publicationDate": "18 enero 2023",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Cuauhtémoc Blanco sueña con ser el próximo DT de la Selección Mexicana"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:59",
+                    "firebaseEvent": "cartelera-videosslider-videos-pos-10",
+                    "highlighted": false,
+                    "id": "00000183-3f8d-da57-a7bf-3fbfff620000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/bf5731c/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbb%2F0f%2Fa2c7a49f48ae9384fab983181c79%2Fentrevista-exclusiva-gennady-golovkin.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/canelo-vs-golovkin-3-entrevista-gennady-golovkin?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 septiembre 2022",
+                    "section": "Exclusivas Azteca Deportes ",
+                    "title": "Resultados anteriores vs Canelo no importan: Gennady Golovkin"
+                }
+            ],
+            "view": "videoSlider",
+            "content": "",
+            "headline": "Videos",
+            "moreTitle": ""
+        },
+        {
+            "headline": "Próximos eventos tabs",
+            "promos":
+            [
+                {
+                    "contentType": "ShowPromo",
+                    "firebaseEvent": "cartelera-liveprograming-liveprograming-pos-1",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8efa90c/2147483647/strip/true/crop/80x45+0+18/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F29%2F8b%2F0fd99f1515e4d3d7ea27cefa5ba7%2Flogoaztecadeportes-2215565.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecauno/la-granja-vip/envivo?_app=true",
+                    "previewDetails":
+                    {
+                        "description": "Entérate de todas las noticias de La Granja VIP México por Azteca UNO: granjeros, conductores, críticos, transmisiones EN VIVO y más",
+                        "imageBackground": "https://uat.tv-azteca.psdops.com/dims4/default/79d308b/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff5%2Ffd%2F1dedc7cb4c9eb79f0e8d93a2294d%2Fweb-la-granja-1.jpg",
+                        "logo": "https://uat.tv-azteca.psdops.com/dims4/default/bb8d9cd/2147483647/strip/true/crop/457x202+0+0/resize/280x124!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5a%2Fec%2F992413114a368a817e71e67c012e%2Fla-granja-vip.png"
+                    },
+                    "section": "La Granja VIP",
+                    "title": "La Granja VIP: La Traición"
+                }
+            ],
+            "view": "livePrograming"
+        },
+        {
+            "headline": "Próximos eventos tabs adn",
+            "promos":
+            [],
+            "view": "livePrograming"
+        }
+    ],
+    "title": "Cartelera"
+}

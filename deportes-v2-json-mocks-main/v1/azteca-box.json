@@ -1,0 +1,197 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Ricardo Albarrán",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-1",
+                    "highlighted": false,
+                    "id": "00000187-f47b-d215-af9f-fd7fd44c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0467f59/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5d%2F92%2F47ab76744b85b344df95d1c1d65c%2Fryder-evita-el-golpe-de-saul-canelo-alvarez.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cara-john-ryder-pelea-vs-canelo-alvarez?_app=true",
+                    "private": "1",
+                    "publicationDate": "06 mayo 2023",
+                    "section": "Canelo en Jalisco",
+                    "title": "Así quedó John Ryder tras la pelea contra Canelo Álvarez"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-2",
+                    "highlighted": false,
+                    "id": "00000187-f45e-d215-af9f-fd5fb79f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/930a9b9/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe8%2Fe9%2Fccc96528423fab633e928dbabe0c%2Fcanelo-derriba-por-segunda-vez-a-ryder.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/canelo-derrota-ryder-decision-unanime-estadio-chivas-mexico-guadalajara?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 mayo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "El Canelo Álvarez conquista Guadalajara ante John Ryder"
+                },
+                {
+                    "author": "Publicado por: Omar Moro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-3",
+                    "highlighted": false,
+                    "id": "00000186-e1e0-de0e-a9ee-fffa95ed0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e678c78/2147483647/strip/true/crop/4000x2250+0+207/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2Fd0%2F7861c3674632b7af0e327bf2e38e%2F.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/por-que-le-dicen-gorila-john-ryder-rival-canelo-alvarez?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 marzo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Por qué le dicen 'Gorila' a John Ryder, rival del Canelo Álvarez?"
+                },
+                {
+                    "author": "Publicado por: Ricardo Albarrán",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-4",
+                    "highlighted": false,
+                    "id": "00000186-e1d6-da44-a5bf-f5f77f9f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6cf0242/2147483647/strip/true/crop/4000x2250+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fba%2F13%2F31ca67f945fe9eca36c27e1e1f5d%2Fcanelotriunfo.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/canelo-alvarez-historial-boxeadores-britanicos?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 marzo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Canelo Álvarez buscará su octava victoria ante un británico contra John Ryder"
+                },
+                {
+                    "author": "Publicado por: Iván Vilchis",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-5",
+                    "highlighted": false,
+                    "id": "00000186-e18b-d314-ada7-f7ab80f60000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/608a196/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F18%2F28%2Fd3a3a40b45458951028f7eb99f85%2Fsaul-canelo-alvarez-vs-jonh-ryder.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/esto-dijo-jonh-ryder-confirmar-su-pelea-canelo-alvarez?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 marzo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Esto dijo John Ryder al confirmar su pelea con 'Canelo' Álvarez "
+                },
+                {
+                    "author": "Publicado por: Ricardo Albarrán",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-6",
+                    "highlighted": false,
+                    "id": "00000186-e198-da75-a7d7-edfef4620000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e16add3/2147483647/strip/true/crop/1394x784+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc7%2F1f%2F6e614f52479bbfe0eb4d643c626b%2Fwhatsapp-image-2023-03-14-at-13-50-27.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/canelo-alvarez-promete-gran-pelea-vs-john-ryder?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 marzo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Canelo Álvarez promete una gran pelea contra John Ryder el 6 de mayo"
+                },
+                {
+                    "author": "Publicado por: Omar Moro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-box-azteca-slider-items-box-azteca-pos-7",
+                    "highlighted": false,
+                    "id": "00000186-e11d-d776-ab96-e5ffa4040000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3a681d1/2147483647/strip/true/crop/1024x576+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F72%2Fe3%2F10782529415c8429fbf4d29b82dd%2Fcanelo-alvarez-pelea-jalisco.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/reacciones-conferencia-canelo-alvarez-vs-jonh-ryder-estadio-akron?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 marzo 2023",
+                    "section": "Canelo en Jalisco",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Canelo en Jalisco",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Reacciones de la conferencia de la pelea del Canelo Álvarez"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items box azteca",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu box azteca"
+}

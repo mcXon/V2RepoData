@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-1",
+                    "highlighted": false,
+                    "id": "0000019b-485a-d03e-a7db-6c7e0a860000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8110729/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4b%2Fdd%2Fa299b7ba40e6bbff5806850f03bb%2F4-juegos-no-estaran-playstation-plus-enero-2026.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/una-final-cargada-tension-en-bangkok-alpha7-esports-levanto-el-trofeo-del?_app=true",
+                    "private": "1",
+                    "publicationDate": "22 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Tras una final cargada de tensión en Bangkok, Alpha7 Esports levantó el trofeo del PMGC 2025 y PUBG MOBILE aprovechó el escenario global para revelar ambiciosos planes competitivos y de contenido rumbo a 2026"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-2ed3-d55a-a7df-afdf823e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3e881a3/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F65%2F6a%2Ff9d143704c5392bd91a26bd623f7%2Funnamed.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/alpha7-esports-campeon-pubg-mobile-global-championship-2025?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Alpha7 Esports hace historia y se consagra campeón del PUBG MOBILE Global Championship 2025"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-29a7-de56-affb-6bfff6fb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2af44f3/2147483647/strip/true/crop/3840x2160+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2F36%2Fadcbc7cf4ef6933b333007627373%2Funnamed.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fecha-lanzamiento-orbitals-en-nintendo-switch-2?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Orbitals anuncia su llegada en 2026 como una nueva aventura cooperativa exclusiva de Nintendo Switch 2"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-29a4-dd67-afdf-3dbebfab0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f5437b9/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8f%2F0f%2Faa4bb39a4853b41fc8d35916b6d8%2Funnamed-3.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lego-batman-el-legado-del-caballero-la-noche-lanzamiento?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "LEGO Batman: El Legado del Caballero de la Noche confirma su lanzamiento para mayo de 2026 y revela nuevo tráiler en The Game Awards"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-2dc9-d55a-a7df-addd0f170000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/115c61e/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2Fa6%2F294884ff44c0a594631801bf87ad%2Fea-sports-fc-26-vencio-pokemon-call-of-duty-ventas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ea-sports-fc-26-vencio-pokemon-call-of-duty-ventas-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "EA Sports FC 26, más vivo que nunca; así venció a Pokémon y Call of Duty en ventas"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-2dcb-dfca-a9df-afdf44f40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8110729/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4b%2Fdd%2Fa299b7ba40e6bbff5806850f03bb%2F4-juegos-no-estaran-playstation-plus-enero-2026.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/4-juegos-no-estaran-playstation-plus-enero-2026-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Estos son los 4 juegos que dejarán de estar en la PlayStation Plus en enero 2026"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-299b-dd95-abfb-bfdffccb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5aed342/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F63%2F7d%2F7006a09342589bbe446b06d48726%2Fclair-obscur-expedition-33-4049565-jpg.webp",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cuantos-premios-gano-clair-obscur-expedition-33?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Clair Obscur: Expedition 33 arrasa en The Game Awards 2025 y establece un récord histórico"
+                },
+                {
+                    "author": "Publicado por: Raúl Núñez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-2994-d1c7-a7df-7db4fa280000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ceaa49d/2147483647/strip/true/crop/680x383+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd5%2F98%2Fa8386aa74a1eb12a9895892fea21%2Funnamed.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/valorant-masters-santiago-2026-mantiene-boletos-disponibles-para-sus-primeras?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "VALORANT Masters Santiago 2026 mantiene boletos disponibles para sus primeras jornadas"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-9",
+                    "highlighted": false,
+                    "id": "0000019b-28ae-dd00-adff-bbbe61900000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/82cfe07/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe1%2F4a%2F1ef96f394609beb93ff1f15e5e1f%2Fnex-playground-consola-amenaza-superar-xbox.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/nex-playground-consola-amenaza-superar-xbox-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Conoce Nex Playground, la nueva consola que amenaza con superar a la Xbox"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-beisbol-slider-items-beisbol-pos-10",
+                    "highlighted": false,
+                    "id": "0000019b-28b6-d44c-afff-7df735530000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ac41001/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Fde%2F706797314330946085918a6c6181%2Flara-croft-regresa-dos-nuevos-videojuegos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lara-croft-regresa-dos-nuevos-videojuegos-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Esports",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Esports",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Lara Croft regresa con 2 nuevos videojuegos; así será su desarrollo"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items beisbol",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu beisbol"
+}

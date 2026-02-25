@@ -1,0 +1,294 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-1d0f-de97-af9e-3f1fa4120000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/13ba828/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc8%2F52%2F0ed5a6714446b4807aa48b294ef7%2Flennart-karl.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lennart-karl-deslumbra-golazo-triunfo-bayern-munich-borussia-mgladbach?_app=true",
+                    "private": "0",
+                    "publicationDate": "25 octubre 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "El GOLAZO del niño prodigio del Bayern Munich (VIDEO)"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-2",
+                    "highlighted": false,
+                    "id": "00000198-e774-d59f-abf9-f7f46dd80000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8da2d40/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F34%2F50%2F4a971e8244ae9f5746440dd6f522%2Flucas-vazquez-con-bayer-leverkusen.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lucas-vazquez-cambia-aires-real-madrid-bayer-leverkusen?_app=true",
+                    "private": "0",
+                    "publicationDate": "26 agosto 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "OFICIAL: Un histórico del Real Madrid aterriza en la Bundesliga"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-3",
+                    "highlighted": false,
+                    "id": "00000198-4d2f-dddd-ab9f-cd2f1a940000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5c5f8df/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2F47%2Fd6e1d5e548d6a290b80da9e0a8de%2Fcamiseta-bayern-munich.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/luis-diaz-convierte-nuevo-jugador-bayern-munich-golpe-autoridad?_app=true",
+                    "private": "0",
+                    "publicationDate": "27 julio 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Bomba en Europa! El Bayern Munich arma un ataque letal con figura sudamericana"
+                },
+                {
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-4",
+                    "highlighted": false,
+                    "id": "00000197-e076-df81-adf7-f87e44cc0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e34d9fe/2147483647/strip/true/crop/1200x675+0+25/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F72%2F92%2Fec0237ac486facdf01316d7ea476%2Fjamal-musiala.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jamal-musiala-sufre-grave-lesion-mundial-clubes-estara-fuera-cinco-seis-meses?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 julio 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡OFICIAL! Bayer Munich certifica la gravedad de la lesión de Jamal Musiala y el tiempo que será baja"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-5",
+                    "highlighted": false,
+                    "id": "00000197-5a24-d791-afd7-dba60c5f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0c39b8f/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2F69%2Fc21699484ac4b3a6eae0c88d4b0c%2Fjobe-bellingham.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/jobe-bellingham-ficha-borussia-dortmund-despide-sunderland?_app=true",
+                    "private": "0",
+                    "publicationDate": "10 junio 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "OFICIAL: Bellingham es nuevo jugador del Borussia Dortmund"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-6",
+                    "highlighted": false,
+                    "id": "00000196-9c63-d6ec-af9f-dffbf60e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7ee04a7/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe5%2F18%2F62a70fa24d5098a2eefee37d3ca1%2Fharry-kane-celebra-con-el-bayern-munich.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/harry-kane-rompe-maldicion-bayern-munich-conquista-titulo-bundesliga?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 mayo 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Se termina la malaria! Hay nuevo campeón en la Bundesliga"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-7",
+                    "highlighted": false,
+                    "id": "00000196-979d-d729-a397-df9faf8a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0e8b266/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F76%2Fb6%2F92d77e674957891c54e086b0aad3%2Fharry-kane.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/harry-kane-debera-esperar-bayern-munich-empata-pospone-primer-titulo?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 mayo 2025",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Increíble! De nuevo Harry Kane se queda en la orilla de un título"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-8",
+                    "highlighted": false,
+                    "id": "00000193-a7bb-de0f-ab93-bfbb067d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/03fa18f/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F76%2Fc1%2F3832dbe744f1ba49a45bda4b7b7b%2Ffranz-beckenbauer.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/bayern-munich-retira-numero-honor-franz-beckenbauer?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 diciembre 2024",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Bayern Munich retira el número de una de sus grandes figuras"
+                },
+                {
+                    "author": "Publicado por: Mariano Adame Quintanilla",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-9",
+                    "highlighted": false,
+                    "id": "00000193-8ec7-de0f-ab93-bfe7248b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/337b608/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2Fd8%2F312637aa44bf93fc8dc50ba80543%2Fneuerexpulsado.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/bayern-munich-expulsion-manuel-neuer-dfb-pokal?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 diciembre 2024",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Manuel Neuer es expulsado por primera vez! Lo que le costó a Bayern Munich"
+                },
+                {
+                    "author": "Publicado por: Iván Vilchis",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-azteca-sports-slider-items-sports-pos-10",
+                    "highlighted": false,
+                    "id": "00000193-7e9a-d015-addf-7efe12eb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ad32853/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8a%2F69%2F4d08dbf14f6aa68cdf9bdc3644ff%2Fbayern-munich.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/bayern-termina-empatando-a-dortmund?_app=true",
+                    "private": "0",
+                    "publicationDate": "30 noviembre 2024",
+                    "section": "Bundesliga ",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Futbol Internacional",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Mantienen el invicto! Bayern logra empatar al conjunto del Dortmund"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items Sports",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu Azteca Sports"
+}

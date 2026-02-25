@@ -1,0 +1,187 @@
+{
+    "config":
+    {
+        "login":
+        {
+            "private": "2",
+            "privateCfg": "https://www.tvazteca.com/aztecadeportes/login_deportes"
+        }
+    },
+    "modules":
+    [
+        {
+            "data":
+            {
+                "view": "barraCaliente",
+                "source": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/marcadoresUAT.json"
+            },
+            "headline": "barraCaliente",
+            "view": "barraCaliente"
+        },
+        {
+            "adUnit": "/29782907/apps-azteca/TVAzteca-QA/indice-app-deportes/home",
+            "view": "adBanner"
+        },
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:32",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-99d2-de42-abba-9bfa8c0f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/953deac/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7e%2Fa7%2F4c98809f3001b9c01e529ec8e792%2Fthumb-691d22c99463ee0e3d12ba4f-691d22c99463ee0e3d12ba63-9s.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/se-calento-el-partido-expulsan-a-auxiliar-paraguay-fuerte-reclamo-mexico-vs?_app=true",
+                    "private": "0",
+                    "publicationDate": "20 enero 2026",
+                    "section": "Selección Azteca",
+                    "isLive": true,
+                    "title": "¡Se calentó el partido! Expulsan a auxiliar de Paraguay tras fuerte reclamo | México vs Paraguay"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "5:58",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-c885-daef-afdf-da8d56660000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/a10b5b9/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fe3%2F19%2Fe99044e2c0e82e303ba9e7005edf%2Fthumb-693fa36d21d6a6c8cd77d614-1765779796080.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/analisis-toluca-vs-tigres-final-vuelta-apertura-2025/?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 enero 2026",
+                    "section": "Liga MX",
+                    "isLive": false,
+                    "title": "Analisis Toluca vs Tigres | Final Vuelta | Apertura 2025 | Liga MX"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "0:34",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-c885-daef-afdf-da8d23940000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fd8fe1b/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F41%2Fab%2F8c4635c554a913f1ae43621e2949%2Fthumb-693f827fce77700e972c02ff-1765832076748.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/el-iman-humano-nahuel-se-queda-todo-en-la-final-toluca-vs-tigres-final/?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 enero 2026",
+                    "section": "Liga MX",
+                    "isLive": true,
+                    "title": "¡EL IMÁN HUMANO! | Nahuel se queda con TODO en la FINAL | Toluca vs Tigres | Final Vuelta"
+                },
+                {
+                    "author": "Publicado por: Otro| deportes",
+                    "contentType": "video",
+                    "durationTime": "",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-c884-daef-afdf-da8df7a80000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/814a37f/2147483647/strip/true/crop/196x110+0+6/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F24%2F96%2F4805e4131b642241224586c745fb%2Ftoluca-1332332.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/tanda-penales-infarto-completa-toluca-vs-tigres-toluca-bicampeon-apertura/?_app=true",
+                    "private": "1",
+                    "publicationDate": "16 enero 2026",
+                    "section": "Liga MX",
+                    "isLive": false,
+                    "title": "¡TANDA DE PENALES DE INFARTO COMPLETA ! | Toluca vs Tigres | TOLUCA BICAMPEÓN | Apertura 2025"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "9:48",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-20af-d29b-adbf-2aff15a10000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/afe5a8f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F27%2F3a%2Ff568a3fc450392a7243d6ef8d8da%2Fmini-resumen-2025.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/resumen-toluca-29-18-tigres-final-vuelta-apertura-2025-tv-azteca?_app=true",
+                    "private": "1",
+                    "publicationDate": "02 enero 2026",
+                    "section": "Liga MX",
+                    "isLive": true,
+                    "title": "RESUMEN: Toluca 2(9) - 1(8) Tigres | Final Vuelta | Apertura 2025 | TV Azteca Deportes"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "video",
+                    "durationTime": "1:29",
+                    "firebaseEvent": "indice-app-deportes-postercarousel-poster-carousel-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-1fa0-d29b-adbf-3ffdff900000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2160d4d/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5e%2F11%2F62971c7b49358a855e721182d8a2%2Fgol-gignac.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/gol-gignac-tigres-pega-primero-en-la-final?_app=true",
+                    "private": "1",
+                    "publicationDate": "01 enero 2026",
+                    "section": "Liga MX",
+                    "isLive": false,
+                    "title": "¡GOOOL DE TIGRES! Fernando Gorriarán abre el marcardor tras un disparo de Gignac y se acerca al TÍTULO"
+                }
+            ],
+            "view": "posterCarousel",
+            "content": "",
+            "headline": "Poster carousel",
+            "moreTitle": ""
+        },
+        {
+            "screens":
+            [
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/cartelera",
+                    "title": "Cartelera"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/futbol",
+                    "title": "Futbol"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/futbol-americano",
+                    "title": "Futbol americano"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/beisbol",
+                    "title": "Beisbol"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/basquetbol",
+                    "title": "Basquetbol"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/tenis",
+                    "title": "Tenis"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/automovilismo",
+                    "title": "Automovilismo"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/azteca-box",
+                    "title": "Box azteca"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/azteca-sports",
+                    "title": "Azteca Sports"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/lucha-azteca",
+                    "title": "Lucha Azteca"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/golf-azteca",
+                    "title": "Golf Azteca"
+                },
+                {
+                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/protagonistas",
+                    "title": "Los protagonistas"
+                }
+            ],
+            "view": "menu"
+        },
+        {
+            "data":
+            {
+                "campo": "url"
+            },
+            "headline": "Caliente",
+            "view": "Caliente"
+        }
+    ]
+}

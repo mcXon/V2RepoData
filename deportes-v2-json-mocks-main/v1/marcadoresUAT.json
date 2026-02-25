@@ -1,0 +1,232 @@
+{
+    "ultimaGeneracion": "2025-09-01 19:51:47",
+    "brand":
+    {
+        "image": "https://d2xqe91ahisxjb.cloudfront.net/app2020/img/logo-caliente.png",
+        "openurl": "https://www.caliente.mx"
+    },
+    "marcadores":
+    [
+        {
+            "titulo": "Futbol",
+            "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/bar.json",
+            "ligas":
+            [
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/31.gif",
+                    "titulo": "Copa América",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/copa-america.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/651.gif",
+                    "titulo": "Fútbol - Equipos Femenino",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/futbol---equipos-femenino.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/76.gif",
+                    "titulo": "UEFA Euro",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa-euro.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/25.gif",
+                    "titulo": "México - Liga MX",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/mexico---liga-mx.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/63.gif",
+                    "titulo": "México - Liga de Expansión",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/mexico---liga-de-expansion.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/19.gif",
+                    "titulo": "Mundial FIFA",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/mundial-fifa.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/24.gif",
+                    "titulo": "Amistosos",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/amistosos.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/32.gif",
+                    "titulo": "UEFA Champions League",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa-champions-league.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/34.gif",
+                    "titulo": "UEFA Europa League",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa-europa-league.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/5.gif",
+                    "titulo": "España - Primera División",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/espana---primera-division.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/151.gif",
+                    "titulo": "España - Copa del Rey",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/espana---copa-del-rey.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/30.gif",
+                    "titulo": "Inglaterra - Premier League",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/inglaterra---premier-league.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/577.gif",
+                    "titulo": "Inglaterra - Copa FA",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/inglaterra---copa-fa.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/115.gif",
+                    "titulo": "CONCACAF Champions League",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/concacaf-champions-league.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/6.gif",
+                    "titulo": "Italia - Serie A",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/italia---serie-a.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/571.gif",
+                    "titulo": "Italia - Copa Italia",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/italia---copa-italia.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/131.gif",
+                    "titulo": "Francia - Primera División",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/francia---primera-division.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/1951.gif",
+                    "titulo": "Francia - Copa de Francia",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/francia---copa-de-francia.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/40.gif",
+                    "titulo": "Alemania - Bundesliga",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/alemania---bundesliga.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/1953.gif",
+                    "titulo": "Alemania - Copa de Alemania",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/alemania---copa-de-alemania.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/132.gif",
+                    "titulo": "Países Bajos - Eredivisie",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/paises-bajos---eredivisie.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/133.gif",
+                    "titulo": "Portugal - Primera División",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/portugal---primera-division.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/143.gif",
+                    "titulo": "Estados Unidos - MLS",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/estados-unidos---mls.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/632.gif",
+                    "titulo": "Estados Unidos - U.S. Open Cup",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/estados-unidos---us-open-cup.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/1830.gif",
+                    "titulo": "CONCACAF - Liga de Naciones",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/concacaf---liga-de-naciones.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/1823.gif",
+                    "titulo": "UEFA - Nations League A",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa---nations-league-a.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/120.gif",
+                    "titulo": "CONCACAF Eliminatorias",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/concacaf-eliminatorias.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/8.gif",
+                    "titulo": "CONMEBOL - Eliminatorias",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/conmebol---eliminatorias.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/117.gif",
+                    "titulo": "UEFA - Eliminatorias",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa---eliminatorias.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/7.gif",
+                    "titulo": "CONMEBOL - Copa Libertadores",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/conmebol---copa-libertadores.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/160.gif",
+                    "titulo": "UEFA Supercopa",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa-supercopa.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/2053.gif",
+                    "titulo": "Arabia Saudita - Primera Division",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/arabia-saudita---primera-division.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/2462.gif",
+                    "titulo": "FIFA Mundial de Clubes",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/fifa-mundial-de-clubes.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/687.gif",
+                    "titulo": "UEFA - CONMEBOL Desafío de Clubes",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/uefa---conmebol-desafio-de-clubes.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/2298.gif",
+                    "titulo": "Leagues Cup",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/leagues-cup.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/soccer/leagues/125.gif",
+                    "titulo": "CONCACAF Copa Oro",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/soccer/concacaf-copa-oro.json"
+                }
+            ]
+        },
+        {
+            "titulo": "Beisbol",
+            "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/beisbol/bar.json",
+            "ligas":
+            [
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/beisbol/leagues/642.gif",
+                    "titulo": "México - Liga de Beisbol del Pacífico 2024-2025",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/beisbol/mexico---liga-de-beisbol-del-pacifico-2024-2025.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/beisbol/leagues/625.gif",
+                    "titulo": "Liga Mexicana de Béisbol 2025",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/beisbol/liga-mexicana-de-beisbol-2025.json"
+                },
+                {
+                    "icono": "https://aztecastats.com.mx/imagenes/beisbol/leagues/569.gif",
+                    "titulo": "Estados Unidos - MLB - Temporada 2025",
+                    "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/beisbol/estados-unidos---mlb---temporada-2025.json"
+                }
+            ]
+        },
+        {
+            "titulo": "NFL",
+            "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/americano/bar.json"
+        },
+        {
+            "titulo": "Tenis",
+            "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/tenis/bar.json"
+        },
+        {
+            "titulo": "Formula 1",
+            "contenido": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/uat/app/barra/formulauno/bar.json"
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-1",
+                    "highlighted": false,
+                    "id": "00000191-34b9-d770-add1-7dfb15c50000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8a09b95/2147483647/strip/true/crop/1257x707+3+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F20%2Fb2%2Fa014856a4295a7dbf78bb15ba13a%2Festados-unidos-voleibol-medalla-de-oro-juegos-olimpicos-tokio-2020.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/resultado-medalla-oro-voleibol-femenil-tokio-2020?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 agosto 2024",
+                    "section": "Juegos Olímpicos Tokio 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokio 2020",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Estados Unidos gana su primera medalla de oro en voleibol | Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-2",
+                    "highlighted": false,
+                    "id": "00000180-8bfe-de3f-a5c4-efff7af70000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/c1ad2c0/2147483647/strip/true/crop/1900x1069+0+6/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F33%2F33%2Fc2e7ac6443e68109761a7d93dbf9%2Fochoa-tatuaje-tokio-2020-esposa-jesus-corona-se-burla.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/ochoa-tatuaje-medalla-bronce-tokyo-2020-esposa-corona-burla-lmr?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 mayo 2022",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Esposa de Corona responde a tatuaje de Ochoa con medalla de Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-3",
+                    "highlighted": false,
+                    "id": "0000017d-f838-da5d-a97d-fdba03200000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/06d31c2/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe0%2Faa%2F184782264fa39a2cb7e252944421%2Ftokyo-2020.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/mejores-momentos-juegos-olimpicos-tokyo-2020-tvr?_app=true",
+                    "private": "0",
+                    "publicationDate": "26 diciembre 2021",
+                    "section": "Juegos Olímpicos Tokio 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokio 2020",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Los mejores momentos en los Juegos Olímpicos de 2021"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-4",
+                    "highlighted": false,
+                    "id": "0000017c-ecc9-d895-a17d-edfda2e70000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6ba4504/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1d%2Fb4%2F2a3d7c7739aade8f9a5f35a5a207%2Fanagabrielaguevara-2275163.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/gabriela-guevara-entrega-estimulos-a-medallistas-olimpicos-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 noviembre 2021",
+                    "section": "Juegos Olímpicos Tokio 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokio 2020",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ana Gabriela Guevara entrega estímulos a medallistas olímpicos"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-5",
+                    "highlighted": false,
+                    "id": "0000017b-ad1a-da1f-afff-bd9fdf080000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ad8775b/2147483647/strip/true/crop/1809x1018+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F93%2F33%2F87a395644bc395ce7d7c7e62fe76%2Fmexico-en-el-medallero-juegos-paralimpicos-de-tokyo-2020.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/mexico-en-tokio-2020/el-medallero-los-juegos-paralimpicos-tokyo-2020-eacr?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 septiembre 2021",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Así marcha el medallero en los Juegos Paralímpicos | Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-6",
+                    "highlighted": false,
+                    "id": "0000017b-a351-d940-adfb-b7f1ae740000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6c6f597/2147483647/strip/true/crop/1261x709+0+70/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe0%2Fcf%2Ff827b3a445e994700b5e0a1025f7%2Fjuegos-paralimpicos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/mexico-en-tokio-2020/cuantas-medallas-lleva-mexico-en-los-juegos-paralimpicos-gmr?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 septiembre 2021",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Cuántas medallas lleva México en los Juegos Paralímpicos?"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-7",
+                    "highlighted": false,
+                    "id": "0000017b-92af-d75e-af7f-9aff330b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/021427d/2147483647/strip/true/crop/749x421+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F49%2Fce%2F27330cff4faca44bf3ae3afbda1b%2Fruvalcaba.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lenia-ruvalcaba-diego-lopez-medalla-mexico-tokyo-2020-x4ac?_app=true",
+                    "private": "0",
+                    "publicationDate": "29 agosto 2021",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Lenia Ruvalcaba y Diego López ganan medalla para México en Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-8",
+                    "highlighted": false,
+                    "id": "0000017b-8845-d75e-af7f-887592760000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2ad2793/2147483647/strip/true/crop/1368x770+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F65%2F1a%2Ff7abdfa843d4be69cfb7eefadee5%2Frosa-maria-guerrero.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/rosa-maria-guerrero-medalla-mexico-tokyo-2020-x4ac?_app=true",
+                    "private": "0",
+                    "publicationDate": "27 agosto 2021",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Rosa María Guerrero gana medalla para México en Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-9",
+                    "highlighted": false,
+                    "id": "0000017b-7db1-d8f1-ab7b-7dfb15fc0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8a4f870/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2Fb0%2F2c113a28451a894215f898b0acbf%2Fparalimpicos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fabiola-ramirez-medalla-bronce-mexico-tokyo-2020-x4ac?_app=true",
+                    "private": "0",
+                    "publicationDate": "25 agosto 2021",
+                    "section": "México en Tokyo 2020",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fabiola Ramírez gana medalla para México en Tokyo 2020"
+                },
+                {
+                    "author": "Publicado por: Ashley González",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-basquetbol-slider-items-basquetbol-pos-10",
+                    "highlighted": false,
+                    "id": "0000017b-5fa8-d3f2-a3ff-dfaf2ef30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9a0d0eb/2147483647/strip/true/crop/1168x657+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F67%2F98%2F25f8a8da49eaa661067e1248a0c1%2Fmaria-andrejczyk-subasta-medalla-olimpica.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/juegos-olimpicos-tokio-2020/atleta-olimpica-subasta-medalla-cirugia-nino-maria-andrejczyk?_app=true",
+                    "private": "0",
+                    "publicationDate": "19 agosto 2021",
+                    "section": "Tokyo",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Juegos Olímpicos Tokyo 2020 (Sección Padre)",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Atleta olímpica subasta medalla para ayudar en la cirugía de un niño"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "items basquetbol",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu basquetbol"
+}

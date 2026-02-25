@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Raúl Márquez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-1",
+                    "highlighted": false,
+                    "id": "00000191-d901-d5b3-a1d7-d90f7b9c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/37ce70b/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F74%2F1f%2F1cae0bf84e35b2ae58ace4c90aa9%2Fimane-khelif-boxeadora-de-argelia.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/madre-atleta-olimpica-imane-khelif-hospitalizada-por-criticas-a-su-hija?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 septiembre 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Madre de atleta olímpica hospitalizada por críticas a su hija"
+                },
+                {
+                    "author": "Publicado por: Fernando Campos",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-2",
+                    "highlighted": false,
+                    "id": "00000191-ce28-d282-a1b9-cfffcfe90000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4385636/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F90%2Fff%2F58dcf8234228be319e1a4bcf8a38%2Ftara-davis-woodhall-y-hunter-woodhall.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/amor-oro-historia-tara-davis-woodhall-hunter-woodhall-en-paris?_app=true",
+                    "private": "0",
+                    "publicationDate": "07 septiembre 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "AMOR Y ORO: la historia de Tara Davis-Woodhall y Hunter Woodhall en París 2024"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-3",
+                    "highlighted": false,
+                    "id": "00000191-c331-d9d1-a7d9-eb3d11be0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/183175d/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe2%2Ff3%2Fc24736ab4f588b4b3fe96a01e8cd%2Frebecca-cheptegei.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/muere-rebecca-cheptegei-maratonista-paris-2024?_app=true",
+                    "private": "0",
+                    "publicationDate": "05 septiembre 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Muere maratonista de París 2024 tras ataque de su pareja"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-4",
+                    "highlighted": false,
+                    "id": "00000191-8fc6-d639-a5db-9fde55f00000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fefe57e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3b%2Fa3%2F4c38fba64c25bc87142cee207984%2Fdiseno-sin-titulo-40.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/paris-2024-atletas-corea-del-norte-podrian-enfrentarse-severos-castigos?_app=true",
+                    "private": "0",
+                    "publicationDate": "26 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "París 2024: Atletas de Corea del Norte podrían enfrentarse a severos castigos por selfie con surcoreanos "
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-5",
+                    "highlighted": false,
+                    "id": "00000191-7d99-dcc8-a79d-ffffd77b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f91212a/2147483647/strip/true/crop/1440x810+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb1%2F48%2F51acb31c415cb4184312afe8cac5%2Falejandra-valencia-arquera-mexicana-en-paris-2024.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/yo-nunca-hable-apoyos-alejandra-valencia-responde-a-conade-beca?_app=true",
+                    "private": "0",
+                    "publicationDate": "22 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "\"Yo nunca hablé de apoyos”: Ale Valencia le responde a la CONADE"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-6",
+                    "highlighted": false,
+                    "id": "00000191-7cad-d9f0-add5-fdfde7a50000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/afb02c8/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F42%2F0c%2F8965ddde434ea8a3a9abfca7cc3b%2Fproyecto-nuevo-14.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/conade-explica-reduccion-beca-alejandra-valencia?_app=true",
+                    "private": "0",
+                    "publicationDate": "22 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "CONADE responde a Alejandra Valencia tras polémica por la beca"
+                },
+                {
+                    "author": "Publicado por: Jared Pozo",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-7",
+                    "highlighted": false,
+                    "id": "00000191-7b41-d754-a599-7bf3946a0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/44e268e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa2%2Fc5%2F58a69c1f4ba78a23acc8ce6fba44%2Falejandra-valencia-tiro-con-arco-cuartos-paris-2024.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/triste-alejandra-valencia-anuncia-que-bajaron-beca-medalla-bronce-paris-2024?_app=true",
+                    "private": "0",
+                    "publicationDate": "22 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Triste: Alejandra Valencia anuncia que le bajaron su beca tras la medalla que consiguió en París 2024 "
+                },
+                {
+                    "author": "Publicado por: Mauricio Gutiérrez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-8",
+                    "highlighted": false,
+                    "id": "00000191-5d49-df9d-a9bf-5ddf94710000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/6c6f597/2147483647/strip/true/crop/1261x709+0+70/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe0%2Fcf%2Ff827b3a445e994700b5e0a1025f7%2Fjuegos-paralimpicos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/delegacion-paralimpica-mexicana-abanderada-paris-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Abanderan a la delegación paralímpica que participará en París 2024"
+                },
+                {
+                    "author": "Publicado por: Iván Alfie",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-9",
+                    "highlighted": false,
+                    "id": "00000191-5464-da7f-adf1-feec40280000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0a3011a/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7e%2F18%2F954316a642f8a7767228f3abb3f8%2Fana-gabriela-guevara.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/todo-lo-que-gano-me-lo-trago-me-lo-unto-como-se-me-da-la-gana-ana-gabriela-guevara-conade-juegos-olimpicos-paris-2024?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "\"Todo lo que gano me lo trago y me lo unto como se me da la ch**** gana\" Ana Gabriela Guevara explota ante las críticas"
+                },
+                {
+                    "author": "Publicado por: Iván Alfie",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-tenis-slider-items-tenis-pos-10",
+                    "highlighted": false,
+                    "id": "00000191-544a-d3ff-aff9-fcff3f540000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7c6d72f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F38%2Fd9%2Ffa97692a4afaa7d5450e87c97955%2Fmarco-verde-paris-2024.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/se-dividiran-premios-economicos-medallistas-mexicanos-paris-2024?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 agosto 2024",
+                    "section": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "JUEGOS OLÍMPICOS DE PARÍS 2024",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Así se dividirán los premios económicos para los medallistas mexicanos en París 2024"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items Tenis",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu Tenis"
+}

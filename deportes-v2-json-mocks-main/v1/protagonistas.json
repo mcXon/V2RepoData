@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-1",
+                    "highlighted": false,
+                    "id": "00000187-6df7-dc65-a1b7-6df741940000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7799d3f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb2%2Fda%2Fe248ccf348d78adfbd67c742ed3b%2Fquien-es-el-protagonista-10-abril.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/quien-sera-el-cuadro-esta-noche-comex-masters?_app=true",
+                    "private": "1",
+                    "publicationDate": "10 abril 2023",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿De quién será el cuadro de esta noche en Comex Masters?"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-2",
+                    "highlighted": false,
+                    "id": "00000187-0bfd-db8e-afef-affd35500000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/2e9cd98/2147483647/strip/true/crop/818x460+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F93%2Ffd%2Ff6f4143f4f49a6fa013d288eacdb%2Fcomex-masters.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/participa-se-parte-del-programa-comex-masters?_app=true",
+                    "private": "1",
+                    "publicationDate": "22 marzo 2023",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Participa para ser parte del programa de Comex Masters!"
+                },
+                {
+                    "author": "Publicado por: Omar Moro",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-3",
+                    "highlighted": false,
+                    "id": "00000182-38e9-dd94-a7e7-baffeb040000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/c4ea1d1/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F18%2Fee%2F792a746a437d816a5b5af4cb87be%2Fwhatsapp-image-2022-07-02-at-8.10.54%20PM%20%281%29.jpeg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/futuro-ricardo-cadena-chivas-apertura-2022-liga-mx?_app=true",
+                    "private": "0",
+                    "publicationDate": "26 julio 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "David Medrano aclara el futuro de Ricardo Cadena en Chivas"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-4",
+                    "highlighted": false,
+                    "id": "0000017f-4e5b-d800-ab7f-4f7fe2eb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3122e0d/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F40%2F7b%2Fc99e15b447c7901f7a3035b677cb%2Fla-confesion-de-zague-sobre-el-america.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/zague-buscaria-almada-larcamon-america-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 marzo 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Los técnicos que Zague buscaría para dirigir al América"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-5",
+                    "highlighted": false,
+                    "id": "0000017e-6bd2-dfff-a3ff-efdb54120000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/f82a5f0/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1b%2F69%2F6954087f47179008ef4b9c02b869%2F5-mexicanos-europa-league-carlos-salcedo.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/regresos-convocatoria-seleccion-mexicana-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "18 enero 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "David Medrano adelanta los regresos que habría en Selección Mexicana"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-6",
+                    "highlighted": false,
+                    "id": "0000017e-6ba4-defd-afff-6ba711220000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0b5ff52/2147483647/strip/true/crop/1970x1108+0+99/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6a%2Fe7%2F7f41cc704e5babc9f87bedcbca0b%2Fcruz-aziul.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/marco-fabian-descarta-rencor-chivas-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "18 enero 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Marco Fabián promete magia en Mazatlán y descarta rencor a Chivas"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-7",
+                    "highlighted": false,
+                    "id": "0000017e-547c-dfdc-a37f-747ceff50000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/06f4bd5/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc0%2Fe8%2F23dd039042a2acfc027fe621d339%2Fa2.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/oribe-peralta-revela-por-que-no-jugaba-chivas-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "13 enero 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Oribe Peralta revela por qué no jugaba en Chivas"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-8",
+                    "highlighted": false,
+                    "id": "0000017e-23a4-d391-affe-b3bea9d70000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/875d9d0/2147483647/strip/true/crop/779x438+0+81/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9e%2Fd7%2F57ce415ea1dd3354529e6855cb14%2F0",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cristian-pavon-no-llegara-cruz-azul-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "04 enero 2022",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "David Medrano adelantó qué pasará con Cristian Pavón y Cruz Azul"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-9",
+                    "highlighted": false,
+                    "id": "0000017d-bcad-da5d-a97d-bdbfa8fd0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9375630/2147483647/strip/true/crop/4000x2250+0+206/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F7d%2Fba8fb95d4ae9b4cb46b19bf735a5%2Fatlas-puebla.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/atlas-confirmo-interes-jesus-angulo-tigres-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 diciembre 2021",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Atlas confirmó el futuro de Jesús Angulo"
+                },
+                {
+                    "author": "Publicado por: Azteca Deportes",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-los-protaginistas-slider-items-los-protagonistas-pos-10",
+                    "highlighted": false,
+                    "id": "0000017d-71f0-d4e3-a17d-f5f50f810000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/5d3c5f4/2147483647/strip/true/crop/1050x591+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7f%2F7b%2Fe85ce7484e9682d6d3d4eae9e920%2Fsantiagos.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/futuro-santiago-banos-santiago-solari-america-pbzg?_app=true",
+                    "private": "0",
+                    "publicationDate": "30 noviembre 2021",
+                    "section": "Los Protagonistas",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Los Protagonistas",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "El futuro de Santiago Baños y Santiago Solari en el América"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items los protagonistas",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu los protaginistas"
+}

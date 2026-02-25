@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Rodrigo Ornelas Gutiérrez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-1",
+                    "highlighted": false,
+                    "id": "0000019b-2a36-db25-afbb-3b3f5ede0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/637f4b4/2147483647/strip/true/crop/3864x2174+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F91%2F8d%2F96ae665b491184b40396c01afef7%2Fpenta-zero-miedo-rey-mysterio.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/penta-zero-miedo-publica-desgarrador-mensaje-redes-sociales-lesion-hombro?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Penta Zero Miedo, publica desgarrador mensaje en sus redes sociales sobre su lesión de hombro, que lo aleja de luchar en México, pero anuncia a Rey Mysterio "
+                },
+                {
+                    "author": "Publicado por: Diego Gonzalez | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-2446-de6b-a1db-74dee75f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/288b46f/2147483647/strip/true/crop/1280x720+0+4/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3a%2F15%2Fe8c499ac4cd2969a3b86eb3457fd%2Fjhon-cena-fortuna.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/john-cena-se-retiro-forma-iconica-fortuna-que-logro-acumular-wwe?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "John Cena se retiró de una forma icónica y esta es la fortuna que logró acumular en su carrera en la WWE"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-2009-ddef-a9fb-a8a91a450000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/672de2a/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F26%2F7d%2Ff101289e4de680d2cbdeaea2d726%2Festos-4-luchadores-rindieron-john-cena-durante-carrera-wwe-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/estos-4-luchadores-rindieron-john-cena-durante-carrera-wwe-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Estos fueron los 4 luchadores que rindieron a John Cena durante su carrera dentro de WWE"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-15c1-df9e-af9b-dde78c520000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/a480c1e/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2Fb1%2Fd9919de04307b4d8fd2e6c0ad2b0%2F40-anos-carrera-cuerpo-pide-luchador-boomerang-se-retira-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/40-anos-carrera-cuerpo-pide-luchador-boomerang-se-retira-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Con 40 años de carrera, una vida de independiente y porque el cuerpo se lo pide... se despide este luchador"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-0995-d452-a19f-bfb7f9240000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fe9bcb9/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3b%2Fd2%2F9e9aa6064bb9908b4df089824cfe%2Festo-dijo-john-cena-luchadores-dominan-wwe-en-la-actualidad-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/esto-dijo-john-cena-luchadores-dominan-wwe-en-la-actualidad-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "10 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "John Cena no se guardó nada y esto dijo de los luchadores que dominan WWE en la actualidad"
+                },
+                {
+                    "author": "Publicado por: Rodrigo Ornelas Gutiérrez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-0913-d3c6-a1df-df577f830000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/1147e74/2147483647/strip/true/crop/1076x605+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd1%2Fd5%2F71ab930349178613d322d5376f38%2Fbad-bunny-arena-mexico-cmll.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/confirmado-bad-bunny-estuvo-primera-fila-arena-mexico-usando-mascara-mistico?_app=true",
+                    "private": "0",
+                    "publicationDate": "10 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "CONFIRMADO: Bad Bunny estuvo en primera fila en la Arena México usando una máscara de Místico "
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-7",
+                    "highlighted": false,
+                    "id": "0000019a-fb4c-db53-a3be-ff5e550c0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4405f85/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F21%2F4f%2F2d35f7104a279eaabefa46a74a9d%2Fdoctor-da-sorpresiva-noticia-alrededor-lesion-penta-cero-miedo-vuelve-antes-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/doctor-da-sorpresiva-noticia-alrededor-lesion-penta-cero-miedo-vuelve-antes-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "07 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Doctor da sorpresiva noticia alrededor de la lesión de Penta Cero Miedo; esto se sabe"
+                },
+                {
+                    "author": "Publicado por: Luis Madrid - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-8",
+                    "highlighted": false,
+                    "id": "0000019a-f549-d251-adff-ff4dbe5f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4a90e70/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9b%2Faf%2F137120b74029ac335cf46ba456a3%2Fsaturday-nights-main-event-xlii.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/saturday-nights-main-event-xlii-combates-destacan-despedida-john-cena-lmg-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Saturday Night’s Main Event XLII: Estos son los combates que destacan en la despedida de John Cena"
+                },
+                {
+                    "author": "Publicado por: Luis Madrid - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-9",
+                    "highlighted": false,
+                    "id": "0000019a-f4b9-ddd6-addb-ffbb995f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8b53dd0/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2Ff2%2Fc06d4b22409fad329a486340381f%2F3-cosas-que-debes-saber-de-la-ultima-lucha-de-john-cena-en-wwe.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/3-cosas-saber-ultima-lucha-john-cena-wwe-lmg-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "06 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "3 cosas que debes saber de la última lucha de John Cena en WWE"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-lucha-azteca-slider-items-lucha-azteca-pos-10",
+                    "highlighted": false,
+                    "id": "0000019a-e572-d8c8-a7de-e7f6d5a50000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/fe1dbe5/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffb%2F92%2F2b8a8c4246488af869fbcf2140d4%2Fjohn-cena-estos-son-luchadores-con-los-que-mas-peleo-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/john-cena-estos-son-luchadores-con-los-que-mas-peleo-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "03 diciembre 2025",
+                    "section": "Lucha Azteca",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Lucha Azteca",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "John Cena y sus grandes rivales; estos son los luchadores con los que más peleó"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items lucha azteca",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu Lucha Azteca"
+}

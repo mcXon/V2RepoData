@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Test Author, Diego Gonzalez | DR",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-ad0c-d035-a3fe-afae99f30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e6ccca1/2147483647/strip/true/crop/743x418+1+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2Fbd%2F5137edba475fbf23ddae80337382%2Fpuntos-checo-perez-temporada-debut-cadillac-f1.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/puntos-checo-perez-temporada-debut-cadillac-f1-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¿Cuántos puntos hará Checo Pérez en su temporada de debut con Cadillac en la F1?"
+                },
+                {
+                    "author": "Publicado por: GABRIEL MARTÍNEZ RUBIO",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-2e73-dfca-a9df-afffb7060000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/dba8191/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9e%2F53%2F67fe10354741a55a8df83a5a08ef%2Fchristian-horner.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/christian-horner-negocia-regreso-formula-1-alpine-temporada-2026?_app=true",
+                    "private": "0",
+                    "publicationDate": "17 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Christian Horner prepara su golpe maestro para volver a la Fórmula 1 en 2026"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-24a9-dda6-a19f-edeb16510000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8200a4c/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd0%2Fe5%2Fd1a46a154b8c8511c945f043a9d8%2Fhelmut-marko-culpable-ataques-checo-perez-red-bull.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/helmut-marko-culpable-ataques-checo-perez-red-bull-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "16 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Helmut Marko revela al culpable de los ataques hacia Checo Pérez en su paso por Red Bull"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-1f21-d285-affb-3fe503250000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8537d4a/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fed%2Fbb%2Fed867be948da8d02c0f0cddad8ea%2Fcheco-perez-modelaje-previo-regreso-f1-cadillac.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/checo-perez-modelaje-previo-regreso-f1-cadillac-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Checo Pérez incursiona en el modelaje a meses para su regreso a la F1"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-1036-df96-a59b-b576a2b30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/257c1e0/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fca%2Fdf%2F49d9f2b04d78b17ac59202125741%2Fcheco-perez-aun-no-vuelve-f1-hizo-historia-con-sauber-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/checo-perez-aun-no-vuelve-f1-hizo-historia-con-sauber-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Checo Pérez aún no vuelve a la F1 y ya hizo historia con esta escudería"
+                },
+                {
+                    "author": "Publicado por: Rodrigo Acuña",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-1dbb-d570-abfb-dfffeddb0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/35ba429/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe3%2Ffd%2F6986fb0b4b0a8a69269cadfcdbfe%2Fcharles-lecler-ferrari-salida-2026.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/charles-leclerc-fuera-ferrari-2026?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "ÚLTIMA HORA: Charles Leclerc podría salir de Ferrari en 2026 y esto se sabe hasta el momento"
+                },
+                {
+                    "author": "Publicado por: Pablo García - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-102e-dd4b-a3bb-be2fafde0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/d695b9f/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F26%2F31%2F18415e304d25a12cd253818d953d%2Flando-norris-sobrepaso-limites-gastar-fiesta-campeon-formula-1-pb-notas.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/lando-norris-sobrepaso-limites-gastar-fiesta-campeon-formula-1-pb-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Lando Norris sobrepasó los límites al gastar esta cantidad en su fiesta de campeón en Fórmula 1"
+                },
+                {
+                    "author": "Publicado por: Sebastian Cortés ",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-1415-d3d6-a99b-d47fc09b0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/d92cb65/2147483647/strip/true/crop/4507x2535+0+235/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F15%2Fb6%2F7b89b04d4c18a933aacb99f5690d%2F2025-11-23t084942z-447481381-mt1usatoday27661264-rtrmadp-3-formula-one-formula-one-heineken-las-vegas-grand-prix.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/quedara-la-estructura-motoristas-en-la-f1-para-2026-en-el-regreso-sergio-checo?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "OFICIAL: Así quedará la estructura de motoristas en la F1 para 2026"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-9",
+                    "highlighted": false,
+                    "id": "0000019b-12df-d8e8-afbf-fbdfc28f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/1a75da0/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2F87%2F00befdbb4c69b9053288cbb7ec44%2Ffotos-magui-corceiro-modelo-pareja-lando-norris-f1.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/fotos-magui-corceiro-modelo-pareja-lando-norris-f1-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "FOTOS: Ella es Magui Corceiro, modelo que es pareja de Lando Norris, campeón de la F1"
+                },
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-automovilismo-slider-items-pos-10",
+                    "highlighted": false,
+                    "id": "0000019b-1018-dbf4-a79b-d49a4aa10000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/0926313/2147483647/strip/true/crop/1200x675+0+3/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe1%2Fb0%2Fce5c8b6545e69f37a97f6d004c3a%2Ff1-dinero-ganado-max-verstappen-2025.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/f1-dinero-ganado-max-verstappen-2025-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "12 diciembre 2025",
+                    "section": "AUTOMOVILISMO",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "AUTOMOVILISMO",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Perdió el título, pero ganó mucho dinero; estos millones obtuvo Max Verstappen en 2025"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu automovilismo"
+}

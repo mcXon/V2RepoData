@@ -1,0 +1,295 @@
+{
+    "modules":
+    [
+        {
+            "promos":
+            [
+                {
+                    "author": "Publicado por: Alan Chávez - Marktube",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-1",
+                    "highlighted": false,
+                    "id": "0000019a-ad24-d93f-a99e-edfe5f190000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/4d18e00/2147483647/strip/true/crop/747x420+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe2%2F23%2F741c271845b7a25e87a45f820e0d%2Frazones-new-england-patriots-super-bowl-2026.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/razones-new-england-patriots-super-bowl-2026-ac-notas?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Estas son las razones por las que los New England Patriots volverán a un Super Bowl en 2026"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-2",
+                    "highlighted": false,
+                    "id": "0000019b-248c-d505-a5db-75df90360000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/ef782eb/2147483647/strip/true/crop/3417x1922+0+121/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F71%2F60%2Fb04c3793467d83f56f10d5c31d18%2F2025-12-16t025639z-1144658641-mt1usatoday27827158-rtrmadp-3-nfl-miami-dolphins-at-pittsburgh-steelers.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/pittsburgh-steelers-vs-miami-dolphins-ver-en-vivo-gratis-resultado-nfl-hoy?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Pittsburgh Steelers derrota a Miami Dolphins en juego del Monday Night Football de la NFL"
+                },
+                {
+                    "author": "Publicado por: Herminio Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-3",
+                    "highlighted": false,
+                    "id": "0000019b-223c-dc6a-adbb-76bfc7d30000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/3aafa30/2147483647/strip/true/crop/3512x1976+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe2%2Fd8%2F194c70bd42fea19b2f13a745af45%2Fmiami-dolphins.png",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/esto-debes-saber-del-mnf-la-semana-15-la-nfl-es2?_app=true",
+                    "private": "0",
+                    "publicationDate": "15 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡ATENCIÓN! Lo que debes de saber del MNF de la semana 15 de la NFL"
+                },
+                {
+                    "author": "Publicado por: Iván Alfie",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-4",
+                    "highlighted": false,
+                    "id": "0000019b-2079-d9f4-a5db-6cfd10840000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/9cc0b6c/2147483647/strip/true/crop/1690x951+0+86/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F91%2F86%2F2241dd5847c7a8af8c382f8f4a10%2F73513637-10158085339397275-7987460588584304640-o.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/kansas-city-se-queda-sin-playoffs-y-sin-patrick-mahomes-el-resto-la-temporada-en-la?_app=true",
+                    "private": "0",
+                    "publicationDate": "14 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Kansas City se queda sin Playoffs y sin Patrick Mahomes el resto de la temporada en la NFL"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-5",
+                    "highlighted": false,
+                    "id": "0000019b-18f4-d68d-a9bb-daf4df9e0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/8391cde/2147483647/strip/true/crop/6869x3864+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fac%2F6c%2Fc3e62ce349688948dec60cb54ff4%2F2025-11-23t190907z-1902880775-mt1usatoday27663432-rtrmadp-3-nfl-pittsburgh-steelers-at-chicago-bears.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/nfl-tj-watt-pittsburgh-steelers-sufre-colapso-pulmon-sera-baja-miami?_app=true",
+                    "private": "0",
+                    "publicationDate": "13 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Pittsburgh Steelers pierde a uno de sus jugadores más importantes tras sufrir colapso de pulmón"
+                },
+                {
+                    "author": "Publicado por: Juan Manuel Arróniz",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-6",
+                    "highlighted": false,
+                    "id": "0000019b-0574-df9a-a59b-e77d624f0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/624333f/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F2e%2F2fde9b314f779402879b0dbd919a%2Fproyecto-nuevo.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/cowboys-posibilidades-playoffs-nfl-eagles?_app=true",
+                    "private": "0",
+                    "publicationDate": "09 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Viven! La manera en que los Cowboys podrían acceder a los playoffs de la NFL "
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-7",
+                    "highlighted": false,
+                    "id": "0000019b-017d-de1e-a1fb-1d7f80870000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/29ce457/2147483647/strip/true/crop/4326x2433+0+225/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5c%2F36%2F1ea5e6fb46ab8b1a50d0f4135698%2F2025-12-07t213136z-719666118-mt1usatoday27767072-rtrmadp-3-nfl-seattle-seahawks-at-atlanta-falcons.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/estos-son-equipos-que-estan-eliminados-playoffs-nfl?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡CONFIRMADO! Estos son los equipos que ya están eliminados de los Playoffs de la NFL"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-8",
+                    "highlighted": false,
+                    "id": "0000019b-005b-d05c-a59f-397b40e40000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/e579d8d/2147483647/strip/true/crop/6257x3520+0+326/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff1%2Fb3%2F8630502e40fca6bb41de89277a10%2F2025-12-09t023638z-1929308416-mt1usatoday27775275-rtrmadp-3-nfl-philadelphia-eagles-at-los-angeles-chargers.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/los-angeles-chargers-vs-philadelphia-eagles-donde-ver-en-vivo-y-gratis-resultado-semana-14-nfl?_app=true",
+                    "private": "0",
+                    "publicationDate": "08 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Los Angeles Chargers  vence a Philadelphia Eagles en un dramático partido que se extendió al tiempo extra"
+                },
+                {
+                    "author": "Publicado por: Francisco Fernández",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-9",
+                    "highlighted": false,
+                    "id": "0000019a-dc32-dd7a-a5bb-fdb29b8d0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/d64fb2e/2147483647/strip/true/crop/4422x2487+0+207/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F35%2F51%2Fc2f9b0174531b101b08412d6ecbc%2F2025-12-02t030256z-1406597966-mt1usatoday27719864-rtrmadp-3-nfl-new-york-giants-at-new-england-patriots.JPG",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/new-york-giants-vs-new-england-patriots-donde-ver-en-vivo-gratis-resultado-semana-13-nfl?_app=true",
+                    "private": "0",
+                    "publicationDate": "01 diciembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "New England Patriots aplasta a los New York Giants en juego de lunes por la noche de la NFL"
+                },
+                {
+                    "author": "Publicado por: Juan Manuel Arróniz",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "submenu-futbol-americano-slider-items-pos-10",
+                    "highlighted": false,
+                    "id": "0000019a-d1d0-d9a1-a99a-f7d615fd0000",
+                    "image": "https://uat.tv-azteca.psdops.com/dims4/default/7da526e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F19%2F52%2Fdd85dd7442e2b5df1ac35d4472f4%2Fproyecto-nuevo-2.jpg",
+                    "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecadeportes/myles-garrett-jaxon-smith-njigba-cerca-marcas-historicas-nfl?_app=true",
+                    "private": "0",
+                    "publicationDate": "30 noviembre 2025",
+                    "section": "Ritual NFL",
+                    "site": "",
+                    "tags":
+                    [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Ritual NFL",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Dos jugadores de la NFL están cerca de destrozar récords históricos"
+                }
+            ],
+            "view": "simpleSlider",
+            "content": "",
+            "headline": "Items",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Submenu futbol americano"
+}
