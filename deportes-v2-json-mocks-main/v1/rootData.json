@@ -129,47 +129,47 @@
                     "title": "Cartelera"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/futbol",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/futbol.json",
                     "title": "Futbol"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/futbol-americano",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/futbol-americano.json",
                     "title": "Futbol americano"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/beisbol",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/beisbol.json",
                     "title": "Beisbol"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/basquetbol",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/basquetbol.json",
                     "title": "Basquetbol"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/tenis",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/tenis.json",
                     "title": "Tenis"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/automovilismo",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/automovilismo.json",
                     "title": "Automovilismo"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/azteca-box",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/azteca-box.json",
                     "title": "Box azteca"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/azteca-sports",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/azteca-sports.json",
                     "title": "Azteca Sports"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/lucha-azteca",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/lucha-azteca.json",
                     "title": "Lucha Azteca"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/golf-azteca",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/golf-azteca.json",
                     "title": "Golf Azteca"
                 },
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/protagonistas",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/protagonistas.json",
                     "title": "Los protagonistas"
                 }
             ],
