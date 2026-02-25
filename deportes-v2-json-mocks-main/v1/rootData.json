@@ -125,7 +125,7 @@
             "screens":
             [
                 {
-                    "source": "https://uat.tv-azteca.psdops.com/aztecadeportes/app/screen/cartelera",
+                    "source": "https://raw.githubusercontent.com/mcXon/V2RepoData/refs/heads/main/deportes-v2-json-mocks-main/v1/cartelera.json",
                     "title": "Cartelera"
                 },
                 {
